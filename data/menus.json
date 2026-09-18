@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-18T11:06:03.063Z",
+  "checkedAt": "2026-09-18T15:23:35.554Z",
   "menus": [
     {
       "id": "matverkstan",
@@ -28,40 +28,41 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-09-18T11:06:03.063Z",
-      "attemptedAt": "2026-09-18T11:06:03.063Z",
+      "checkedAt": "2026-09-18T15:23:35.554Z",
+      "attemptedAt": "2026-09-18T15:23:35.554Z",
       "weekStart": "2026-09-14",
       "fetchFailed": false
     },
     {
       "id": "mickes",
-      "week": 38,
+      "week": 39,
       "days": [
         [
-          "Wallenbergare med potatismos",
-          "Kycklingfilé med gräddsås"
+          "Kålpudding med lingon",
+          "Kycklingfilegryta med ris"
         ],
         [
-          "Stekt fläsk med löksås",
-          "Sprödbakad torsk med remouladesås"
+          "Rödspätta med remouladsås",
+          "Pyttipanna med ägg och rödbetor"
         ],
         [
-          "Lever med gräddsås och lingon",
-          "Pannbiff med lök"
+          "Pannbiff med lök",
+          "Pepparotkött med potatis"
         ],
         [
-          "Spagetti med köttfärssås",
-          "Kryddjärpar med pressgurka"
+          "Köttfärslimpa med pressgurka",
+          "Korv stroganoff med ris"
         ],
         [
-          "Sweitzare med kantarellsås",
-          "Falukorv med senapssås"
+          "Kalops med rödbetor",
+          "Snitzel m kantarellsås",
+          "Snitzel med kantarellsås"
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-09-18T11:06:03.063Z",
-      "attemptedAt": "2026-09-18T11:06:03.063Z",
-      "weekStart": "2026-09-14",
+      "checkedAt": "2026-09-18T15:23:35.554Z",
+      "attemptedAt": "2026-09-18T15:23:35.554Z",
+      "weekStart": "2026-09-21",
       "fetchFailed": false
     },
     {
@@ -100,87 +101,86 @@
         "Fish & Chips 159:-",
         "Kockens lövbiff med pommes och persiljesmör 189:-"
       ],
-      "checkedAt": "2026-09-18T11:06:03.063Z",
-      "attemptedAt": "2026-09-18T11:06:03.063Z",
+      "checkedAt": "2026-09-18T15:23:35.554Z",
+      "attemptedAt": "2026-09-18T15:23:35.554Z",
       "weekStart": "2026-09-14",
       "fetchFailed": false
     },
     {
       "id": "ganymeden",
-      "week": 38,
+      "week": 39,
       "days": [
         [
-          "Stekt panerad spätta med dillmajonnäs",
-          "Pannbiff med sjömanspotatis"
+          "Stekt panerad spätta med tartarsås",
+          "Kålpudding med gräddsås och lingon"
         ],
         [
           "Raggmunk eller bruna bönor med fläsk",
           "Stekt fläsk med löksås",
-          "Nasi goreng med stekt ägg"
+          "Chili con carne med ris"
         ],
         [
-          "Helstekt fläskkarré med gräddsås och äppelmos",
-          "Stekt panerad flundra med thousand islandsås"
+          "Stekt falukorv med stekt ägg och stekt potatis",
+          "Pepprig fläskköttsgryta med ris",
+          "Stekt panerad flundra med kall örtsås"
         ],
         [
-          "Pannbiff med pepparsås och lingon",
-          "Stekt frukostkorv med stuvad spenat och ägghalva",
+          "Pannbiff med lök, skysås och lingon",
           "Ärtsoppa med pannkakor, sylt och grädde",
-          "Champinjonsoppa med pannkakor, sylt och grädde"
+          "Fiskgratäng med dill och räkor"
         ],
         [
-          "Fläsknoisette med rödvinssås och potatisgratäng",
-          "Ugnsbakad sej med hollandaisesås",
-          "Dagens extra: Nasi goreng med stekt ägg"
+          "Helstekt kotlettrad med choronsås och rostad potatis",
+          "Grillad kycklingfilé med grönpepparsås och rostad potatis"
         ]
       ],
       "weekly": [
-        "Veckans pasta: Spaghetti med köttfärssås",
-        "Veckans vegetariska: Quorngryta med curry, ananas och ris"
+        "Veckans pasta: Krämig pasta med fläskfilé, champinjoner och purjolök",
+        "Veckans vegetariska: Vegetarisk chili med ris"
       ],
-      "checkedAt": "2026-09-18T11:06:03.063Z",
-      "attemptedAt": "2026-09-18T11:06:03.063Z",
-      "weekStart": "2026-09-14",
+      "checkedAt": "2026-09-18T15:23:35.554Z",
+      "attemptedAt": "2026-09-18T15:23:35.554Z",
+      "weekStart": "2026-09-21",
       "fetchFailed": false
     },
     {
       "id": "kockduon",
-      "week": 38,
+      "week": 39,
       "days": [
         [
-          "Skånsk kalops",
-          "Torskfilé tempurainbakad med kall dillsås"
+          "Isterband med gräddstuvad potatis",
+          "Fiskgratäng med skaldjurssås"
         ],
         [
           "Raggmunk med stekt fläsk & lingonsylt",
           "Stekt fläsk med löksås",
-          "Pasta med köttfärssås"
+          "Chili con Carne med nacho chips"
         ],
         [
-          "Grillad fläskkarré med örtsmör & rostad potatis",
-          "Persiljefylld strömming med potatispuré"
+          "Höst högrevsgryta med rotfrukt",
+          "Stekt rödspätta med dansk remouladsås"
         ],
         [
-          "Krispig kycklingschnitzel med kapriskräm",
+          "Baconlindad köttfärslimpa med pepparsås",
           "Ärtsoppa & pannkaka med sylt & grädde"
         ],
         [
-          "Fläskfilé Provenciale med vitlökssmör",
-          "Panerad Havsflundra med smörslungad potatis",
+          "Schnitzel med bearnaisesås & rödvinssås",
+          "Friterad kycklingfilé med sötsurt sås",
           "Fredagar bjuder vi på dessert"
         ]
       ],
       "weekly": [
-        "Veckans pasta: Krämig laxpasta med spenat & räkor",
+        "Veckans pasta: Krämig pasta med kalkon mozzarella & broccoli",
         "Veckans sallader: Grekisk sallad 120:-",
         "Ost & skinksallad 120:-",
         "Kycklingsallad 120:-",
         "Tonfisksallad 120:-",
         "Husets Ceasar sallad 120:-"
       ],
-      "checkedAt": "2026-09-18T11:06:03.063Z",
-      "attemptedAt": "2026-09-18T11:06:03.063Z",
-      "weekStart": "2026-09-14",
+      "checkedAt": "2026-09-18T15:23:35.554Z",
+      "attemptedAt": "2026-09-18T15:23:35.554Z",
+      "weekStart": "2026-09-21",
       "fetchFailed": false
     },
     {
@@ -211,8 +211,8 @@
       "weekly": [
         "Veckans Vegetariska: Parmesanrostad broccoli med tomatrisotto, halloumi och bakad paprika"
       ],
-      "checkedAt": "2026-09-18T11:06:03.063Z",
-      "attemptedAt": "2026-09-18T11:06:03.063Z",
+      "checkedAt": "2026-09-18T15:23:35.554Z",
+      "attemptedAt": "2026-09-18T15:23:35.554Z",
       "weekStart": "2026-09-14",
       "fetchFailed": false
     },
@@ -240,8 +240,8 @@
         "Veckans Inte Lika Gott På Svenska 155:- Spicy Bbq-baked Salmon Burger with fried potatoes Tomat och kryddstekt laxburgare med oljekokt potatis",
         "Veckans Höstmys : Kycklinggryta med smålök champinjoner och rödvinssås samt potatis och selleripuré toppat med friterad kål"
       ],
-      "checkedAt": "2026-09-18T11:06:03.063Z",
-      "attemptedAt": "2026-09-18T11:06:03.063Z",
+      "checkedAt": "2026-09-18T15:23:35.554Z",
+      "attemptedAt": "2026-09-18T15:23:35.554Z",
       "weekStart": "2026-09-14",
       "fetchFailed": false
     }
