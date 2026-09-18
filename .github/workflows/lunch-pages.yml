@@ -1,0 +1,80 @@
+name: Uppdatera lunchmenyer och publicera
+on:
+  schedule:
+    - cron: '17 */2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'data/**'
+      - '*.md'
+
+concurrency:
+  group: lunch-pages
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+      - run: npm run test:menus
+      - name: Hämta och kontrollera menyer
+        id: menus
+        run: npm run menus:fetch
+      - name: Spara senaste kontroll och fungerande menyer
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/menus.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Uppdatera sparade lunchmenyer'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Konfigurera Pages
+        if: steps.menus.outputs.changed == 'true' || github.event_name != 'schedule'
+        uses: actions/configure-pages@v5
+      - name: Bygg statisk webbplats
+        if: steps.menus.outputs.changed == 'true' || github.event_name != 'schedule'
+        run: npm run build:pages
+      - name: Ladda upp webbplats
+        if: steps.menus.outputs.changed == 'true' || github.event_name != 'schedule'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist-pages
+          retention-days: 1
+      - name: Publicera
+        if: steps.menus.outputs.changed == 'true' || github.event_name != 'schedule'
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Markera lyckad publicering
+        if: steps.deployment.outcome == 'success'
+        env:
+          MENU_FINGERPRINT: ${{ steps.menus.outputs.fingerprint }}
+        run: |
+          printf '%s\n' "$MENU_FINGERPRINT" > data/published.sha256
+          git add data/published.sha256
+          if ! git diff --cached --quiet; then
+            git commit -m 'Markera publicerad menyversion'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
