@@ -1,7 +1,7 @@
 name: Uppdatera lunchmenyer och publicera
 on:
   schedule:
-    - cron: '30 */4 * * *'
+    - cron: '30 */2 * * *'
       timezone: 'Europe/Stockholm'
   workflow_dispatch:
   push:
