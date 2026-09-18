@@ -1,14 +1,14 @@
 name: Uppdatera lunchmenyer och publicera
 on:
   schedule:
-    - cron: '17 */2 * * *'
+    - cron: '30 */4 * * *'
+      timezone: 'Europe/Stockholm'
   workflow_dispatch:
   push:
     branches: [main]
     paths-ignore:
       - 'data/**'
       - '*.md'
-
 concurrency:
   group: lunch-pages
   cancel-in-progress: false
