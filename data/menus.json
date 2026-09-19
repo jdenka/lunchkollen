@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-19T22:22:24.553Z",
+  "checkedAt": "2026-09-19T22:44:37.273Z",
   "menus": [
     {
       "id": "matverkstan",
@@ -28,8 +28,8 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-09-19T22:22:24.553Z",
-      "attemptedAt": "2026-09-19T22:22:24.553Z",
+      "checkedAt": "2026-09-19T22:44:37.273Z",
+      "attemptedAt": "2026-09-19T22:44:37.273Z",
       "weekStart": "2026-09-14",
       "fetchFailed": false
     },
@@ -60,8 +60,8 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-09-19T22:22:24.553Z",
-      "attemptedAt": "2026-09-19T22:22:24.553Z",
+      "checkedAt": "2026-09-19T22:44:37.273Z",
+      "attemptedAt": "2026-09-19T22:44:37.273Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -101,8 +101,8 @@
         "Fish & Chips 159:-",
         "Kockens lövbiff med pommes och persiljesmör 189:-"
       ],
-      "checkedAt": "2026-09-19T22:22:24.553Z",
-      "attemptedAt": "2026-09-19T22:22:24.553Z",
+      "checkedAt": "2026-09-19T22:44:37.273Z",
+      "attemptedAt": "2026-09-19T22:44:37.273Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -138,8 +138,8 @@
         "Veckans pasta: Krämig pasta med fläskfilé, champinjoner och purjolök",
         "Veckans vegetariska: Vegetarisk chili med ris"
       ],
-      "checkedAt": "2026-09-19T22:22:24.553Z",
-      "attemptedAt": "2026-09-19T22:22:24.553Z",
+      "checkedAt": "2026-09-19T22:44:37.273Z",
+      "attemptedAt": "2026-09-19T22:44:37.273Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -178,8 +178,8 @@
         "Tonfisksallad 120:-",
         "Husets Ceasar sallad 120:-"
       ],
-      "checkedAt": "2026-09-19T22:22:24.553Z",
-      "attemptedAt": "2026-09-19T22:22:24.553Z",
+      "checkedAt": "2026-09-19T22:44:37.273Z",
+      "attemptedAt": "2026-09-19T22:44:37.273Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -211,8 +211,8 @@
       "weekly": [
         "Veckans Vegetariska: Parmesanrostad broccoli med tomatrisotto, halloumi och bakad paprika"
       ],
-      "checkedAt": "2026-09-19T22:22:24.553Z",
-      "attemptedAt": "2026-09-19T22:22:24.553Z",
+      "checkedAt": "2026-09-19T22:44:37.273Z",
+      "attemptedAt": "2026-09-19T22:44:37.273Z",
       "weekStart": "2026-09-14",
       "fetchFailed": false
     },
@@ -248,8 +248,8 @@
         "Veckans Norska Italienare: Lax och spenatlasagne med dillcrème",
         "Veckans Slättdjur 155:- Rådjurswallenbergare med lingon ärtor och skirat smör samt potatispure"
       ],
-      "checkedAt": "2026-09-19T22:22:24.553Z",
-      "attemptedAt": "2026-09-19T22:22:24.553Z",
+      "checkedAt": "2026-09-19T22:44:37.273Z",
+      "attemptedAt": "2026-09-19T22:44:37.273Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     }
