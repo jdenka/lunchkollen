@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-19T11:16:38.263Z",
+  "checkedAt": "2026-09-19T15:59:04.693Z",
   "menus": [
     {
       "id": "matverkstan",
@@ -28,8 +28,8 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-09-19T11:16:38.263Z",
-      "attemptedAt": "2026-09-19T11:16:38.263Z",
+      "checkedAt": "2026-09-19T15:59:04.693Z",
+      "attemptedAt": "2026-09-19T15:59:04.693Z",
       "weekStart": "2026-09-14",
       "fetchFailed": false
     },
@@ -60,50 +60,50 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-09-19T11:16:38.263Z",
-      "attemptedAt": "2026-09-19T11:16:38.263Z",
+      "checkedAt": "2026-09-19T15:59:04.693Z",
+      "attemptedAt": "2026-09-19T15:59:04.693Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
     {
       "id": "rejmes",
-      "week": 38,
+      "week": 39,
       "days": [
         [
-          "Stekt fläsk med löksås",
-          "Stekt panerad sejfilé med äppelmajonnäs",
-          "Vegetariska Vårrullar med sötsur sås och ris"
+          "Spaghetti Bolognese med färsk riven parmesan",
+          "Stekt panerad Stillahavstorsk med dillmajonnäs",
+          "Vegetariskt: Italiensk blomkåls- och broccoligratäng"
         ],
         [
-          "Pasta Carbonara",
-          "Stekt panerad sejfilé med äppelmajonnäs",
-          "Vegetariska Vårrullar med sötsur sås och ris"
+          "Korv Stroganoff med ris",
+          "Stekt panerad Stillahavstorsk med dillmajonnäs",
+          "Vegetariskt: Italiensk blomkåls- och broccoligratäng"
         ],
         [
-          "Biff à la Lindström med skysås och gurka",
-          "Tomat och purjolöks brässerad sejfilé",
-          "Vegetariska Vårrullar med sötsur sås och ris"
+          "Kökets köttbullar med gräddsås och lingon",
+          "Pocherad fisk med pepparrotssås",
+          "Vegetariskt: Italiensk blomkåls- och broccoligratäng"
         ],
         [
-          "Ärtsoppa samt nygräddade pannkakor med lättvispad grädde och sylt",
-          "Stekt kycklingfilé med grönpepparsås",
-          "Vegetariska Vårrullar med sötsur sås och ris"
+          "Gulaschsoppa och bärpaj med vaniljsås",
+          "Helstekt kotlettrad med kantarellsås",
+          "Vegetariskt: Italiensk blomkåls- och broccoligratäng"
         ],
         [
-          "Husets schnitzel med skysås och ärtor",
-          "Vegetariska Vårrullar med sötsur sås och ris"
+          "Husets Wallenbergare med ärtor och lingon 79:- inkl måltidsdryck",
+          "Vegetariskt: Italiensk blomkåls- och broccoligratäng"
         ]
       ],
       "weekly": [
         "Hela veckan: Bakad potatis med skagen alt. kyckling- och curryröra",
-        "Tonfisksallad",
-        "Färsk tortellini med parmesansås och lufttorkad skinka 129:-",
+        "Tacosallad",
+        "Färsk pasta med strimlad biff i gorgonzolasås 129:-",
         "Fish & Chips 159:-",
         "Kockens lövbiff med pommes och persiljesmör 189:-"
       ],
-      "checkedAt": "2026-09-19T11:16:38.263Z",
-      "attemptedAt": "2026-09-19T11:16:38.263Z",
-      "weekStart": "2026-09-14",
+      "checkedAt": "2026-09-19T15:59:04.693Z",
+      "attemptedAt": "2026-09-19T15:59:04.693Z",
+      "weekStart": "2026-09-21",
       "fetchFailed": false
     },
     {
@@ -138,8 +138,8 @@
         "Veckans pasta: Krämig pasta med fläskfilé, champinjoner och purjolök",
         "Veckans vegetariska: Vegetarisk chili med ris"
       ],
-      "checkedAt": "2026-09-19T11:16:38.263Z",
-      "attemptedAt": "2026-09-19T11:16:38.263Z",
+      "checkedAt": "2026-09-19T15:59:04.693Z",
+      "attemptedAt": "2026-09-19T15:59:04.693Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -178,8 +178,8 @@
         "Tonfisksallad 120:-",
         "Husets Ceasar sallad 120:-"
       ],
-      "checkedAt": "2026-09-19T11:16:38.263Z",
-      "attemptedAt": "2026-09-19T11:16:38.263Z",
+      "checkedAt": "2026-09-19T15:59:04.693Z",
+      "attemptedAt": "2026-09-19T15:59:04.693Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -211,38 +211,46 @@
       "weekly": [
         "Veckans Vegetariska: Parmesanrostad broccoli med tomatrisotto, halloumi och bakad paprika"
       ],
-      "checkedAt": "2026-09-19T11:16:38.263Z",
-      "attemptedAt": "2026-09-19T11:16:38.263Z",
+      "checkedAt": "2026-09-19T15:59:04.693Z",
+      "attemptedAt": "2026-09-19T15:59:04.693Z",
       "weekStart": "2026-09-14",
       "fetchFailed": false
     },
     {
       "id": "matkultur",
-      "week": 38,
+      "week": 39,
       "days": [
         [
-          "Pulled Pork med aioli och rostad potatis"
+          "Gräddstuvad pytt med ägg och rödbetor",
+          "Falukorv med stuvade grönsaker och potatismos"
         ],
         [
-          "Stekt fläsk med löksås och kokt potatis alt bruna bönor"
+          "Viltfärslimpa med grädddsås lingon och potatispure",
+          "Raggmunk med stekt fläsk och lingon"
         ],
         [
-          "Pannbiff med gräddstekt lök och inlagd gurka"
+          "Kroppkakor med skirat smör och fläsk",
+          "Kyckling med ratatouille och örtaioli samt rostad potatis"
         ],
         [
-          "Baconlindad falukorv med bakad tomat bearnaise och friterad potatis"
+          "Kyckling med dragon och senapsgräddsås samt ris",
+          "Biff ala Lindström med persiljesmör och stekt potatis"
         ],
         [
-          "Grillad nattbakad karré med pepparsky och persiljesmör samt rostade rotfrukter"
+          "Schnitzel med kaprissmör rödvinssky och rostad potatis",
+          "Lunchmeny v.40",
+          "Schnitzel med kryddsmör och rostad potatis samt rödvinssås"
         ]
       ],
       "weekly": [
-        "Veckans Inte Lika Gott På Svenska 155:- Spicy Bbq-baked Salmon Burger with fried potatoes Tomat och kryddstekt laxburgare med oljekokt potatis",
-        "Veckans Höstmys : Kycklinggryta med smålök champinjoner och rödvinssås samt potatis och selleripuré toppat med friterad kål"
+        "Veckans Vild Korv 155:- Syrad Älgkorv med dillstuvad potatis samt inlagd gurka och rödbetor",
+        "Veckans Vattendjur: Friterad Lubb med curryremoulade",
+        "Veckans Norska Italienare: Lax och spenatlasagne med dillcrème",
+        "Veckans Slättdjur 155:- Rådjurswallenbergare med lingon ärtor och skirat smör samt potatispure"
       ],
-      "checkedAt": "2026-09-19T11:16:38.263Z",
-      "attemptedAt": "2026-09-19T11:16:38.263Z",
-      "weekStart": "2026-09-14",
+      "checkedAt": "2026-09-19T15:59:04.693Z",
+      "attemptedAt": "2026-09-19T15:59:04.693Z",
+      "weekStart": "2026-09-21",
       "fetchFailed": false
     }
   ]
