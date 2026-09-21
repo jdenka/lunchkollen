@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-21T06:04:22.555Z",
+  "checkedAt": "2026-09-21T06:24:58.323Z",
   "menus": [
     {
       "id": "matverkstan",
@@ -27,8 +27,8 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-09-21T06:04:22.555Z",
-      "attemptedAt": "2026-09-21T06:04:22.555Z",
+      "checkedAt": "2026-09-21T06:24:58.323Z",
+      "attemptedAt": "2026-09-21T06:24:58.323Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -59,10 +59,10 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-09-21T01:09:48.452Z",
-      "attemptedAt": "2026-09-21T06:04:22.555Z",
+      "checkedAt": "2026-09-21T06:24:58.323Z",
+      "attemptedAt": "2026-09-21T06:24:58.323Z",
       "weekStart": "2026-09-21",
-      "fetchFailed": true
+      "fetchFailed": false
     },
     {
       "id": "rejmes",
@@ -90,7 +90,9 @@
         ],
         [
           "Husets Wallenbergare med ärtor och lingon 79:- inkl måltidsdryck",
-          "Vegetariskt: Italiensk blomkåls- och broccoligratäng"
+          "Vegetariskt: Italiensk blomkåls- och broccoligratäng",
+          "Invigningshelg! Lördag och söndag",
+          "Helstekt fläskfilé med potatisgratäng och rödvinssås 79:- inkl måltidsdryck"
         ]
       ],
       "weekly": [
@@ -100,8 +102,8 @@
         "Fish & Chips 159:-",
         "Kockens lövbiff med pommes och persiljesmör 189:-"
       ],
-      "checkedAt": "2026-09-21T06:04:22.555Z",
-      "attemptedAt": "2026-09-21T06:04:22.555Z",
+      "checkedAt": "2026-09-21T06:24:58.323Z",
+      "attemptedAt": "2026-09-21T06:24:58.323Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -137,8 +139,8 @@
         "Veckans pasta: Krämig pasta med fläskfilé, champinjoner och purjolök",
         "Veckans vegetariska: Vegetarisk chili med ris"
       ],
-      "checkedAt": "2026-09-21T06:04:22.555Z",
-      "attemptedAt": "2026-09-21T06:04:22.555Z",
+      "checkedAt": "2026-09-21T06:24:58.323Z",
+      "attemptedAt": "2026-09-21T06:24:58.323Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -177,8 +179,8 @@
         "Tonfisksallad 120:-",
         "Husets Ceasar sallad 120:-"
       ],
-      "checkedAt": "2026-09-21T06:04:22.555Z",
-      "attemptedAt": "2026-09-21T06:04:22.555Z",
+      "checkedAt": "2026-09-21T06:24:58.323Z",
+      "attemptedAt": "2026-09-21T06:24:58.323Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -210,8 +212,8 @@
       "weekly": [
         "Veckans Vegetariska: Parmesanrostad broccoli med tomatrisotto, halloumi och bakad paprika"
       ],
-      "checkedAt": "2026-09-21T06:04:22.555Z",
-      "attemptedAt": "2026-09-21T06:04:22.555Z",
+      "checkedAt": "2026-09-21T06:24:58.323Z",
+      "attemptedAt": "2026-09-21T06:24:58.323Z",
       "weekStart": "2026-09-14",
       "fetchFailed": false
     },
@@ -247,8 +249,8 @@
         "Veckans Norska Italienare: Lax och spenatlasagne med dillcrème",
         "Veckans Slättdjur 155:- Rådjurswallenbergare med lingon ärtor och skirat smör samt potatispure"
       ],
-      "checkedAt": "2026-09-21T06:04:22.555Z",
-      "attemptedAt": "2026-09-21T06:04:22.555Z",
+      "checkedAt": "2026-09-21T06:24:58.323Z",
+      "attemptedAt": "2026-09-21T06:24:58.323Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     }
