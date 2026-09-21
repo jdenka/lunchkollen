@@ -1,7 +1,7 @@
 # Lunchkollen – GitHub Pages
 
-Färdig webbplats för **lunch.cloudidentity.se** med sju restauranger i Linköping.
-Menyerna hämtas av GitHub Actions varannan timme, vid minut 17 (UTC).
+Färdig webbplats för **lunch.cloudidentity.se** med menyer och lunchpriser från sju restauranger i Linköping.
+Menyer och priser hämtas av GitHub Actions varje timme kl. 01.17–10.17 på måndagar i tidszonen Europe/Stockholm.
 Webbplatsen behöver ingen server, API-nyckel eller inloggning för besökarna.
 
 ## 1. Lägg koden i GitHub
@@ -42,8 +42,8 @@ Paketet innehåller redan rätt `CNAME`-fil, men inställningen på GitHub och D
 
 ## Så fungerar uppdateringarna
 
-- Varannan timme hämtas de sju restaurangernas offentliga sidor.
-- Varje källa hanteras separat. Vid timeout, HTTP-fel eller en oläsbar meny behålls senast fungerande meny för den restaurangen. Sidan visar en varning och när den sparade menyn hämtades.
+- Varje måndag kl. 01.17–10.17 hämtas de sju restaurangernas offentliga menyer och priser en gång i timmen.
+- Varje meny och pris hanteras separat. Vid timeout, HTTP-fel eller oläsbart innehåll behålls senast fungerande uppgift. Sidan visar när en sparad meny eller ett senast bekräftat pris används.
 - Menydata och kontrolltid sparas i `data/menus.json` och versionshanteras på `main`.
 - Sidan publiceras på nytt när menyinnehåll, veckodatum eller felstatus ändras. Enbart nya kontrolltider startar ingen publicering. Datumet på korten gäller därför datan i den **publicerade** versionen; senaste kontrollen finns under Actions och i datafilen.
 - Knappen på sidan hämtar den senast publicerade datafilen. Den startar inte en GitHub-körning. För en omedelbar kontroll använder du **Run workflow**.
@@ -76,4 +76,4 @@ Dokumentation:
 - https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
 - https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule
 
-Den tidigare ChatGPT-hostade sidan ändras inte av detta paket. GitHub-publiceringen och tvåtimmarsschemat blir aktiva först när du har lagt upp paketet och aktiverat Pages och Actions.
+Den tidigare ChatGPT-hostade sidan ändras inte av detta paket. GitHub-publiceringen och måndagsschemat blir aktiva först när du har lagt upp paketet och aktiverat Pages och Actions.

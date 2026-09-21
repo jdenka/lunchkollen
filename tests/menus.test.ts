@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import { collect, fingerprint, menuWeekStart } from '../scripts/menu-snapshot';
 import { calendar, restaurants } from '../lib/menus';
+import { matverkstanPriceUrl, parsePrice } from '../lib/parse-menu';
 const now=new Date('2026-09-18T10:00:00Z');
 const menuHtml='<h2>Vecka 38</h2><h3>Måndag</h3><p>Rätt A</p><h3>Tisdag</h3><p>Rätt B</p><h3>Onsdag</h3><p>Rätt C</p><h3>Torsdag</h3><p>Rätt D</p><h3>Fredag</h3><p>Rätt E</p><h3>Frukost:</h3>';
 const fetcher=(async()=>new Response(menuHtml)) as typeof fetch;
@@ -18,4 +19,13 @@ const broken=await collect(first,(async()=>new Response('<html>Site maintenance<
 assert.equal(menuWeekStart(38,now),'2026-09-14');assert.equal(menuWeekStart(53,new Date('2027-01-04T12:00:00Z')),'2026-12-28');
 assert.equal(calendar(new Date('2026-09-20T22:30:00Z')).week,39);
 assert.equal(new Set(restaurants.map(r=>r.id)).size,7);
-console.log('PASS: collection, independent source errors, retained menus, recovery, change detection and week/year boundaries.');
+assert.deepEqual(parsePrice('matverkstan','<strong>Dagens lunch</strong> 115 SEK <strong>Pensionär</strong> 105 SEK'),{amount:115,note:'Pensionär 105 kr'});
+assert.deepEqual(parsePrice('mickes','<p>Dagens lunch: 120:- inkl sallad</p>'),{amount:120});
+assert.deepEqual(parsePrice('rejmes','<p>Dagens lunch serveras kl. 11-13 inkl sallad 125 kr. Avhämtning 110 kr. Seniorpris 115 kr.</p>'),{amount:125,note:'Avhämtning 110 kr · senior 115 kr'});
+assert.deepEqual(parsePrice('ganymeden','<h3>DAGENS 120:-</h3><p>Endast dagensrätt 105:-</p>'),{amount:120,note:'Avhämtning från 105 kr'});
+assert.deepEqual(parsePrice('kockduon','<p>Dagens: 110:- inkl. vatten</p><p>Avhämtning: 100:-</p>'),{amount:110,note:'Avhämtning 100 kr'});
+assert.deepEqual(parsePrice('lhc','<h3>Pris dagens lunch 130:-</h3><p>Alla medlemmar har 25% rabatt</p>'),{amount:130,note:'LHC-medlemmar −25 %'});
+assert.deepEqual(parsePrice('matkultur','<h6>PRIS 145:-</h6><p>Veckans Vild Korv 155:-</p>'),{amount:145,note:'Vissa veckorätter 155 kr'});
+const priceUrl=new URL(matverkstanPriceUrl('<div data-castit-restaurant-id="60" data-castit-pdf-proxy-url="https://www.nordrest.se/wp-admin/admin-ajax.php" data-castit-print-type="weekly"><div class="castit-weekpanel is-active" data-menu-id="1475"></div></div>'));
+assert.equal(priceUrl.searchParams.get('action'),'castit_menu_pdf_proxy');assert.equal(priceUrl.searchParams.get('restaurant_id'),'60');assert.equal(priceUrl.searchParams.get('menu_id'),'1475');
+console.log('PASS: collection, independent source errors, retained menus, prices, recovery, change detection and week/year boundaries.');

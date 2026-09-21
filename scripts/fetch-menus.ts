@@ -9,6 +9,8 @@ let published='';try{published=(await fs.readFile('data/published.sha256','utf8'
 const changed=hash!==published;
 if(process.env.GITHUB_OUTPUT)await fs.appendFile(process.env.GITHUB_OUTPUT,`changed=${changed}\nfingerprint=${hash}\n`);
 const failures=snapshot.menus.filter(m=>m.fetchFailed).map(m=>m.id);
-console.log(`Checked ${snapshot.menus.length} restaurants. ${failures.length} failures. Publication needed: ${changed}.`);
+const priceFailures=snapshot.menus.filter(m=>m.priceFetchFailed).map(m=>m.id);
+console.log(`Checked ${snapshot.menus.length} restaurants. ${failures.length} menu failures and ${priceFailures.length} price failures. Publication needed: ${changed}.`);
 if(failures.length)console.log('::warning::Could not refresh: '+failures.join(', ')+'. Last valid menus retained where available.');
-if(process.env.GITHUB_STEP_SUMMARY)await fs.appendFile(process.env.GITHUB_STEP_SUMMARY,`## Menykontroll\n\nKontrollerad: ${snapshot.checkedAt}\n\n${snapshot.menus.length-failures.length}/${snapshot.menus.length} hämtningar lyckades.\n\n${failures.length?'Kunde inte hämta: '+failures.join(', '):'Alla restauranger svarade.'}\n`);
+if(priceFailures.length)console.log('::warning::Could not refresh prices: '+priceFailures.join(', ')+'. Last valid prices retained where available.');
+if(process.env.GITHUB_STEP_SUMMARY)await fs.appendFile(process.env.GITHUB_STEP_SUMMARY,`## Meny- och priskontroll\n\nKontrollerad: ${snapshot.checkedAt}\n\n${snapshot.menus.length-failures.length}/${snapshot.menus.length} menyhämtningar lyckades.\n\n${failures.length?'Kunde inte hämta meny: '+failures.join(', '):'Alla menyer kunde hämtas.'}\n\n${priceFailures.length?'Kunde inte kontrollera pris: '+priceFailures.join(', '):'Alla lunchpriser kunde kontrolleras.'}\n`);
