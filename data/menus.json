@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-21T01:09:48.452Z",
+  "checkedAt": "2026-09-21T06:04:22.555Z",
   "menus": [
     {
       "id": "matverkstan",
@@ -8,7 +8,7 @@
       "days": [
         [
           "Spenat & ricotta cannelloni serveras med soltorkad tomatsås",
-          "Kåldolmar serveras med kokt potatis gräddsås & lingon - GF & LF (ursprungsområde Polen)"
+          "Kåldolmar serveras med kokt potatis svampsås & lingon - GF & LF (ursprungsområde Polen)"
         ],
         [
           "Chilimarinerade tzayspett serveras med ris & mangoraja - GF & LF",
@@ -27,8 +27,8 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-09-21T01:09:48.452Z",
-      "attemptedAt": "2026-09-21T01:09:48.452Z",
+      "checkedAt": "2026-09-21T06:04:22.555Z",
+      "attemptedAt": "2026-09-21T06:04:22.555Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -60,9 +60,9 @@
       ],
       "weekly": [],
       "checkedAt": "2026-09-21T01:09:48.452Z",
-      "attemptedAt": "2026-09-21T01:09:48.452Z",
+      "attemptedAt": "2026-09-21T06:04:22.555Z",
       "weekStart": "2026-09-21",
-      "fetchFailed": false
+      "fetchFailed": true
     },
     {
       "id": "rejmes",
@@ -100,8 +100,8 @@
         "Fish & Chips 159:-",
         "Kockens lövbiff med pommes och persiljesmör 189:-"
       ],
-      "checkedAt": "2026-09-21T01:09:48.452Z",
-      "attemptedAt": "2026-09-21T01:09:48.452Z",
+      "checkedAt": "2026-09-21T06:04:22.555Z",
+      "attemptedAt": "2026-09-21T06:04:22.555Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -137,8 +137,8 @@
         "Veckans pasta: Krämig pasta med fläskfilé, champinjoner och purjolök",
         "Veckans vegetariska: Vegetarisk chili med ris"
       ],
-      "checkedAt": "2026-09-21T01:09:48.452Z",
-      "attemptedAt": "2026-09-21T01:09:48.452Z",
+      "checkedAt": "2026-09-21T06:04:22.555Z",
+      "attemptedAt": "2026-09-21T06:04:22.555Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -177,8 +177,8 @@
         "Tonfisksallad 120:-",
         "Husets Ceasar sallad 120:-"
       ],
-      "checkedAt": "2026-09-21T01:09:48.452Z",
-      "attemptedAt": "2026-09-21T01:09:48.452Z",
+      "checkedAt": "2026-09-21T06:04:22.555Z",
+      "attemptedAt": "2026-09-21T06:04:22.555Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -210,8 +210,8 @@
       "weekly": [
         "Veckans Vegetariska: Parmesanrostad broccoli med tomatrisotto, halloumi och bakad paprika"
       ],
-      "checkedAt": "2026-09-21T01:09:48.452Z",
-      "attemptedAt": "2026-09-21T01:09:48.452Z",
+      "checkedAt": "2026-09-21T06:04:22.555Z",
+      "attemptedAt": "2026-09-21T06:04:22.555Z",
       "weekStart": "2026-09-14",
       "fetchFailed": false
     },
@@ -247,8 +247,8 @@
         "Veckans Norska Italienare: Lax och spenatlasagne med dillcrème",
         "Veckans Slättdjur 155:- Rådjurswallenbergare med lingon ärtor och skirat smör samt potatispure"
       ],
-      "checkedAt": "2026-09-21T01:09:48.452Z",
-      "attemptedAt": "2026-09-21T01:09:48.452Z",
+      "checkedAt": "2026-09-21T06:04:22.555Z",
+      "attemptedAt": "2026-09-21T06:04:22.555Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     }
