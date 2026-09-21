@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-21T06:24:58.323Z",
+  "checkedAt": "2026-09-21T08:22:25.152Z",
   "menus": [
     {
       "id": "matverkstan",
@@ -27,8 +27,8 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-09-21T06:24:58.323Z",
-      "attemptedAt": "2026-09-21T06:24:58.323Z",
+      "checkedAt": "2026-09-21T08:22:25.152Z",
+      "attemptedAt": "2026-09-21T08:22:25.152Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -59,8 +59,8 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-09-21T06:24:58.323Z",
-      "attemptedAt": "2026-09-21T06:24:58.323Z",
+      "checkedAt": "2026-09-21T08:22:25.152Z",
+      "attemptedAt": "2026-09-21T08:22:25.152Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -102,8 +102,8 @@
         "Fish & Chips 159:-",
         "Kockens lövbiff med pommes och persiljesmör 189:-"
       ],
-      "checkedAt": "2026-09-21T06:24:58.323Z",
-      "attemptedAt": "2026-09-21T06:24:58.323Z",
+      "checkedAt": "2026-09-21T08:22:25.152Z",
+      "attemptedAt": "2026-09-21T08:22:25.152Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -140,9 +140,9 @@
         "Veckans vegetariska: Vegetarisk chili med ris"
       ],
       "checkedAt": "2026-09-21T06:24:58.323Z",
-      "attemptedAt": "2026-09-21T06:24:58.323Z",
+      "attemptedAt": "2026-09-21T08:22:25.152Z",
       "weekStart": "2026-09-21",
-      "fetchFailed": false
+      "fetchFailed": true
     },
     {
       "id": "kockduon",
@@ -179,42 +179,42 @@
         "Tonfisksallad 120:-",
         "Husets Ceasar sallad 120:-"
       ],
-      "checkedAt": "2026-09-21T06:24:58.323Z",
-      "attemptedAt": "2026-09-21T06:24:58.323Z",
+      "checkedAt": "2026-09-21T08:22:25.152Z",
+      "attemptedAt": "2026-09-21T08:22:25.152Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
     {
       "id": "lhc",
-      "week": 38,
+      "week": 39,
       "days": [
         [
-          "Korvstroganoff med chorizo och jasminris",
-          "Rågbrödspanerad sej (G) med skagensås, örtpotatis och citron"
+          "Biffstroganoff med champinjoner, lök och jasminris",
+          "Fisk- och skaldjurspaella med saffran, räkor, musslor och aioli"
         ],
         [
-          "Raggmunk med stekt fläsk och lingon",
-          "Rågbrödspanerad sej (G) med skagensås, örtpotatis och citron"
+          "Rigatoni med gräddig tomatsås, salsiccia och parmesan",
+          "Fisk- och skaldjurspaella med saffran, räkor, musslor och aioli"
         ],
         [
-          "Helstekt fläskkotlett med sky, spetskål, rostad potatis och bearnaise",
-          "Rågbrödspanerad sej (G) med skagensås, örtpotatis och citron"
+          "Kålpudding med gräddsås, kokt potatis och lingon",
+          "Fisk- och skaldjurspaella med saffran, räkor, musslor och aioli"
         ],
         [
-          "Örtbakad kyckling med ljummen bulgursallad, rostad paprika samt ört- och vitlöksyoghurt",
-          "Krämig fiskgryta med skaldjursås, morot, palsternacka och dillstompad potatis"
+          "Pannbiff med potatispuré, ölbräserad lök och kryddsmör",
+          "Vitvinsbakad sej med citronsås, bakad tomat och purjolök samt dillslungad potatis"
         ],
         [
-          "Fläskkarré med rosepepparsås, potatispuré och honungsglaserade gulbetor",
-          "Krämig fiskgryta med skaldjursås, morot, palsternacka och dillstompad potatis"
+          "BBQ-glacerad fläskkarré med rostad potatis, paprika- och chilibearnaise",
+          "Vitvinsbakad sej med citronsås, bakad tomat och purjolök samt dillslungad potatis"
         ]
       ],
       "weekly": [
-        "Veckans Vegetariska: Parmesanrostad broccoli med tomatrisotto, halloumi och bakad paprika"
+        "Veckans Vegetariska: Vegetarisk kålpudding med gräddsås, kokt potatis och lingon"
       ],
-      "checkedAt": "2026-09-21T06:24:58.323Z",
-      "attemptedAt": "2026-09-21T06:24:58.323Z",
-      "weekStart": "2026-09-14",
+      "checkedAt": "2026-09-21T08:22:25.152Z",
+      "attemptedAt": "2026-09-21T08:22:25.152Z",
+      "weekStart": "2026-09-21",
       "fetchFailed": false
     },
     {
@@ -249,8 +249,8 @@
         "Veckans Norska Italienare: Lax och spenatlasagne med dillcrème",
         "Veckans Slättdjur 155:- Rådjurswallenbergare med lingon ärtor och skirat smör samt potatispure"
       ],
-      "checkedAt": "2026-09-21T06:24:58.323Z",
-      "attemptedAt": "2026-09-21T06:24:58.323Z",
+      "checkedAt": "2026-09-21T08:22:25.152Z",
+      "attemptedAt": "2026-09-21T08:22:25.152Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     }
