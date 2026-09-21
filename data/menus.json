@@ -1,36 +1,35 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-19T22:44:37.273Z",
+  "checkedAt": "2026-09-21T01:09:48.452Z",
   "menus": [
     {
       "id": "matverkstan",
-      "week": 38,
+      "week": 39,
       "days": [
         [
-          "Pasta pesto med körsbärstomat & mozzarella",
-          "Helstekt fläskfilé serveras med potatisgratäng rödvinssås samt stekta haricots verts - GF & LF (ursprungsområde EU)"
+          "Spenat & ricotta cannelloni serveras med soltorkad tomatsås",
+          "Kåldolmar serveras med kokt potatis gräddsås & lingon - GF & LF (ursprungsområde Polen)"
         ],
         [
-          "Grönsaksbiff serveras med bulgur & vitlökssås",
-          "Senap & persiljabakad kotlettrad serveras med rostad potatis & champinjonsås - GF & LF (ursprungsområde EU)"
+          "Chilimarinerade tzayspett serveras med ris & mangoraja - GF & LF",
+          "Raggmunk serveras med stekfläsk samt rårörda lingon -  (ursprungsområde Sverige)"
         ],
         [
-          "Vegetarisk lasagne serveras med parmesankräm & saltgurka",
-          "Bouillabaisse med blåmusslor & räkor serveras med kokt potatis - GF & LF (ursprungsområde Nordatlanten)"
+          "Sojafärsfylld zucchini serveras med bulgur & tomatsås - LF",
+          "Helstekt kotlettrad serveras med rostad potatis, rödvinssås & bearnaisesås - GF & LF (ursprungsområde EU)"
         ],
         [
-          "Medelhavspaj serveras med tapenade",
-          "Grekisk köttfärslimpa med fetaost serveras med rostad potatis & tzatziki - GF (ursprungsområde Polen)"
+          "Het bönchili serveras med bulgur & créme fraiche",
+          "Krämig fiskgratäng med räkor och dill serveras med potatispuré - GF & LF (ursprungsområde Nordatlanten)"
         ],
         [
-          "Auberginegryta med kikärtor serveras med ris - GF & LF",
-          "Kycklingpiccata serveras med ris samt tomatsås (ursprungsområde Sverige)"
+          "Mexikansk temafredag"
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-09-19T22:44:37.273Z",
-      "attemptedAt": "2026-09-19T22:44:37.273Z",
-      "weekStart": "2026-09-14",
+      "checkedAt": "2026-09-21T01:09:48.452Z",
+      "attemptedAt": "2026-09-21T01:09:48.452Z",
+      "weekStart": "2026-09-21",
       "fetchFailed": false
     },
     {
@@ -60,8 +59,8 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-09-19T22:44:37.273Z",
-      "attemptedAt": "2026-09-19T22:44:37.273Z",
+      "checkedAt": "2026-09-21T01:09:48.452Z",
+      "attemptedAt": "2026-09-21T01:09:48.452Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -101,8 +100,8 @@
         "Fish & Chips 159:-",
         "Kockens lövbiff med pommes och persiljesmör 189:-"
       ],
-      "checkedAt": "2026-09-19T22:44:37.273Z",
-      "attemptedAt": "2026-09-19T22:44:37.273Z",
+      "checkedAt": "2026-09-21T01:09:48.452Z",
+      "attemptedAt": "2026-09-21T01:09:48.452Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -138,8 +137,8 @@
         "Veckans pasta: Krämig pasta med fläskfilé, champinjoner och purjolök",
         "Veckans vegetariska: Vegetarisk chili med ris"
       ],
-      "checkedAt": "2026-09-19T22:44:37.273Z",
-      "attemptedAt": "2026-09-19T22:44:37.273Z",
+      "checkedAt": "2026-09-21T01:09:48.452Z",
+      "attemptedAt": "2026-09-21T01:09:48.452Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -178,8 +177,8 @@
         "Tonfisksallad 120:-",
         "Husets Ceasar sallad 120:-"
       ],
-      "checkedAt": "2026-09-19T22:44:37.273Z",
-      "attemptedAt": "2026-09-19T22:44:37.273Z",
+      "checkedAt": "2026-09-21T01:09:48.452Z",
+      "attemptedAt": "2026-09-21T01:09:48.452Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     },
@@ -211,8 +210,8 @@
       "weekly": [
         "Veckans Vegetariska: Parmesanrostad broccoli med tomatrisotto, halloumi och bakad paprika"
       ],
-      "checkedAt": "2026-09-19T22:44:37.273Z",
-      "attemptedAt": "2026-09-19T22:44:37.273Z",
+      "checkedAt": "2026-09-21T01:09:48.452Z",
+      "attemptedAt": "2026-09-21T01:09:48.452Z",
       "weekStart": "2026-09-14",
       "fetchFailed": false
     },
@@ -248,8 +247,8 @@
         "Veckans Norska Italienare: Lax och spenatlasagne med dillcrème",
         "Veckans Slättdjur 155:- Rådjurswallenbergare med lingon ärtor och skirat smör samt potatispure"
       ],
-      "checkedAt": "2026-09-19T22:44:37.273Z",
-      "attemptedAt": "2026-09-19T22:44:37.273Z",
+      "checkedAt": "2026-09-21T01:09:48.452Z",
+      "attemptedAt": "2026-09-21T01:09:48.452Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false
     }
