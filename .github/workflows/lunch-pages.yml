@@ -31,7 +31,7 @@ jobs:
       - uses: actions/checkout@v6
         with:
           ref: main
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version: '24'
           cache: npm
@@ -52,20 +52,20 @@ jobs:
           fi
       - name: Konfigurera Pages
         if: steps.menus.outputs.changed == 'true' || github.event_name != 'schedule'
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Bygg statisk webbplats
         if: steps.menus.outputs.changed == 'true' || github.event_name != 'schedule'
         run: npm run build:pages
       - name: Ladda upp webbplats
         if: steps.menus.outputs.changed == 'true' || github.event_name != 'schedule'
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: dist-pages
           retention-days: 1
       - name: Publicera
         if: steps.menus.outputs.changed == 'true' || github.event_name != 'schedule'
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
       - name: Markera lyckad publicering
         if: steps.deployment.outcome == 'success'
         env:
