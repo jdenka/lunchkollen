@@ -1,127 +1,125 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-21T14:14:57.231Z",
+  "checkedAt": "2026-09-28T01:42:28.100Z",
   "menus": [
     {
       "id": "matverkstan",
-      "week": 39,
+      "week": 40,
       "days": [
         [
-          "Spenat & ricotta cannelloni serveras med soltorkad tomatsås",
-          "Kåldolmar serveras med kokt potatis svampsås & lingon - GF & LF (ursprungsområde Polen)"
+          "Pasta pesto med körsbärstomat & mozzarella",
+          "Pasta bolognese toppad med riven ost - LF (ursprungsområde Sverige)"
         ],
         [
-          "Chilimarinerade tzayspett serveras med ris & mangoraja - GF & LF",
-          "Raggmunk serveras med stekfläsk samt rårörda lingon -  (ursprungsområde Sverige)"
+          "Mustig kikärtsgryta med tofu serveras med ris - GF & LF",
+          "Mustig fläskgryta med svamp & bacon serveras med ris - GF & LF (ursprungsområde EU)"
         ],
         [
-          "Sojafärsfylld zucchini serveras med bulgur & tomatsås - LF",
-          "Helstekt kotlettrad serveras med rostad potatis, rödvinssås & bearnaisesås - GF & LF (ursprungsområde EU)"
+          "Vegetarisk lasagne serveras med parmesankräm & saltgurka",
+          "Klassisk lasagne serveras med tomatsås - LF (ursprungsområde Polen)"
+        ],
+        [
+          "Wokad oumph med grönsaker serveras med ris - GF & LF",
+          "Wokade kyckling med paprika purjolök, minimajs & broccoli serveras med ris - GF & LF (ursprungsområde Sverige)"
         ],
         [
           "Het bönchili serveras med bulgur & créme fraiche",
-          "Krämig fiskgratäng med räkor och dill serveras med potatispuré - GF & LF (ursprungsområde Nordatlanten)"
-        ],
-        [
-          "Mexikansk temafredag"
+          "Helstekt karré serveras med klyftpotatis picklad rödlök & BBQ-sås  (ursprungsområde EU)"
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-09-21T14:14:57.231Z",
-      "attemptedAt": "2026-09-21T14:14:57.231Z",
-      "weekStart": "2026-09-21",
+      "checkedAt": "2026-09-28T01:42:28.100Z",
+      "attemptedAt": "2026-09-28T01:42:28.100Z",
+      "weekStart": "2026-09-28",
       "fetchFailed": false,
       "price": {
         "amount": 115,
         "note": "Pensionär 105 kr"
       },
-      "priceCheckedAt": "2026-09-21T14:14:57.231Z",
+      "priceCheckedAt": "2026-09-28T01:42:28.100Z",
       "priceFetchFailed": false
     },
     {
       "id": "mickes",
-      "week": 39,
+      "week": 40,
       "days": [
         [
-          "Kålpudding med lingon",
-          "Kycklingfilegryta med ris"
+          "Hemmagjorda köttbullar med gräddsås",
+          "Köttgryta med ris"
         ],
         [
-          "Rödspätta med remouladsås",
-          "Pyttipanna med ägg och rödbetor"
+          "Sprödbakad torsk med remouladsås",
+          "Stekt fläsk med löksås"
         ],
         [
-          "Pannbiff med lök",
-          "Pepparotkött med potatis"
+          "Kycklingfilé med gräddsås",
+          "Pannbiff med lök"
         ],
         [
-          "Köttfärslimpa med pressgurka",
-          "Korv stroganoff med ris"
+          "Spagetti med köttfärssås",
+          "Oxjärpar med pressgurka"
         ],
         [
-          "Kalops med rödbetor",
-          "Snitzel m kantarellsås",
-          "Snitzel med kantarellsås"
+          "Sweitzare med kantarellsås",
+          "Fläskfilé med gräddsås"
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-09-21T14:14:57.231Z",
-      "attemptedAt": "2026-09-21T14:14:57.231Z",
-      "weekStart": "2026-09-21",
+      "checkedAt": "2026-09-28T01:42:28.100Z",
+      "attemptedAt": "2026-09-28T01:42:28.100Z",
+      "weekStart": "2026-09-28",
       "fetchFailed": false,
       "price": {
         "amount": 120
       },
-      "priceCheckedAt": "2026-09-21T14:14:57.231Z",
+      "priceCheckedAt": "2026-09-28T01:42:28.100Z",
       "priceFetchFailed": false
     },
     {
       "id": "rejmes",
-      "week": 39,
+      "week": 40,
       "days": [
         [
-          "Spaghetti Bolognese med färsk riven parmesan",
-          "Stekt panerad Stillahavstorsk med dillmajonnäs",
-          "Vegetariskt: Italiensk blomkåls- och broccoligratäng"
+          "Husets köttbullar med potatispuré, gräddsås och lingon",
+          "Stekt panerad sandskäda med limedressing",
+          "Vegetariskt: Indisk bönragu med basmatiris"
         ],
         [
-          "Korv Stroganoff med ris",
-          "Stekt panerad Stillahavstorsk med dillmajonnäs",
-          "Vegetariskt: Italiensk blomkåls- och broccoligratäng"
+          "Kockarnas kycklingrisotto med kall currydressing",
+          "Stekt panerad sandskäda med limedressing",
+          "Vegetariskt: Indisk bönragu med basmatiris"
         ],
         [
-          "Kökets köttbullar med gräddsås och lingon",
-          "Pocherad fisk med pepparrotssås",
-          "Vegetariskt: Italiensk blomkåls- och broccoligratäng"
+          "Bohuslänsk fiskgratäng",
+          "Korv stroganoff med ris",
+          "Vegetariskt: Indisk bönragu med basmatiris"
         ],
         [
-          "Gulaschsoppa och bärpaj med vaniljsås",
-          "Helstekt kotlettrad med kantarellsås",
-          "Vegetariskt: Italiensk blomkåls- och broccoligratäng"
+          "Ärtsoppa samt pannkakor med lättvispad grädde och sylt",
+          "Nattbakad kotlettrad med kantarellsås",
+          "Vegetariskt: Indisk bönragu med basmatiris"
         ],
         [
-          "Husets Wallenbergare med ärtor och lingon 79:- inkl måltidsdryck",
-          "Vegetariskt: Italiensk blomkåls- och broccoligratäng",
-          "Invigningshelg! Lördag och söndag",
-          "Helstekt fläskfilé med potatisgratäng och rödvinssås 79:- inkl måltidsdryck"
+          "Champinjongratinerad fläskfilé med tärnad råstekt potatis",
+          "Vegetariskt: Indisk bönragu med basmatiris"
         ]
       ],
       "weekly": [
         "Hela veckan: Bakad potatis med skagen alt. kyckling- och curryröra",
-        "Tacosallad",
-        "Färsk pasta med strimlad biff i gorgonzolasås 129:-",
+        "Räksallad",
+        "Pasta Bianco med scampi, vitlök och chili 129:-",
         "Fish & Chips 159:-",
         "Kockens lövbiff med pommes och persiljesmör 189:-"
       ],
-      "checkedAt": "2026-09-21T14:14:57.231Z",
-      "attemptedAt": "2026-09-21T14:14:57.231Z",
-      "weekStart": "2026-09-21",
+      "checkedAt": "2026-09-28T01:42:28.100Z",
+      "attemptedAt": "2026-09-28T01:42:28.100Z",
+      "weekStart": "2026-09-28",
       "fetchFailed": false,
       "price": {
         "amount": 125,
         "note": "Avhämtning 110 kr · senior 115 kr"
       },
-      "priceCheckedAt": "2026-09-21T14:14:57.231Z",
+      "priceCheckedAt": "2026-09-28T01:42:28.100Z",
       "priceFetchFailed": false
     },
     {
@@ -157,15 +155,15 @@
         "Veckans vegetariska: Vegetarisk chili med ris"
       ],
       "checkedAt": "2026-09-21T14:14:57.231Z",
-      "attemptedAt": "2026-09-21T14:14:57.231Z",
+      "attemptedAt": "2026-09-28T01:42:28.100Z",
       "weekStart": "2026-09-21",
-      "fetchFailed": false,
+      "fetchFailed": true,
       "price": {
         "amount": 120,
         "note": "Avhämtning från 105 kr"
       },
       "priceCheckedAt": "2026-09-21T14:14:57.231Z",
-      "priceFetchFailed": false
+      "priceFetchFailed": true
     },
     {
       "id": "kockduon",
@@ -202,54 +200,54 @@
         "Tonfisksallad 120:-",
         "Husets Ceasar sallad 120:-"
       ],
-      "checkedAt": "2026-09-21T14:14:57.231Z",
-      "attemptedAt": "2026-09-21T14:14:57.231Z",
+      "checkedAt": "2026-09-28T01:42:28.100Z",
+      "attemptedAt": "2026-09-28T01:42:28.100Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false,
       "price": {
         "amount": 110,
         "note": "Avhämtning 100 kr"
       },
-      "priceCheckedAt": "2026-09-21T14:14:57.231Z",
+      "priceCheckedAt": "2026-09-28T01:42:28.100Z",
       "priceFetchFailed": false
     },
     {
       "id": "lhc",
-      "week": 39,
+      "week": 40,
       "days": [
         [
-          "Biffstroganoff med champinjoner, lök och jasminris",
-          "Fisk- och skaldjurspaella med saffran, räkor, musslor och aioli"
+          "Baconlindad chorizo med paprikasås, rostad potatis, tomat och ruccola",
+          "Vitvinsbakad sej med ägg- och persiljesås samt kokt potatis"
         ],
         [
-          "Rigatoni med gräddig tomatsås, salsiccia och parmesan",
-          "Fisk- och skaldjurspaella med saffran, räkor, musslor och aioli"
+          "Raggmunk med stekt fläsk och lingon",
+          "Vitvinsbakad sej med ägg- och persiljesås samt kokt potatis"
         ],
         [
-          "Kålpudding med gräddsås, kokt potatis och lingon",
-          "Fisk- och skaldjurspaella med saffran, räkor, musslor och aioli"
+          "Köttbullar (G) med gräddsås, lingon, pressgurka och potatismos",
+          "Vitvinsbakad sej med ägg- och persiljesås samt kokt potatis"
         ],
         [
-          "Pannbiff med potatispuré, ölbräserad lök och kryddsmör",
-          "Vitvinsbakad sej med citronsås, bakad tomat och purjolök samt dillslungad potatis"
+          "Fläskkarrégryta med grädde, palsternacka, morot och potatispuré",
+          "Bouillabaisse med tomat- och saffranssås, räkor, fänkål samt aioli"
         ],
         [
-          "BBQ-glacerad fläskkarré med rostad potatis, paprika- och chilibearnaise",
-          "Vitvinsbakad sej med citronsås, bakad tomat och purjolök samt dillslungad potatis"
+          "Fläskschnitzel (G) med rostad potatis, rödvinssky, bearnaise och gröna bönor",
+          "Bouillabaisse med tomat- och saffranssås, räkor, fänkål samt aioli"
         ]
       ],
       "weekly": [
-        "Veckans Vegetariska: Vegetarisk kålpudding med gräddsås, kokt potatis och lingon"
+        "Veckans Vegetariska: Halloumistroganoff med ris, tomat och smetana"
       ],
-      "checkedAt": "2026-09-21T14:14:57.231Z",
-      "attemptedAt": "2026-09-21T14:14:57.231Z",
-      "weekStart": "2026-09-21",
+      "checkedAt": "2026-09-28T01:42:28.100Z",
+      "attemptedAt": "2026-09-28T01:42:28.100Z",
+      "weekStart": "2026-09-28",
       "fetchFailed": false,
       "price": {
         "amount": 130,
         "note": "LHC-medlemmar −25 %"
       },
-      "priceCheckedAt": "2026-09-21T14:14:57.231Z",
+      "priceCheckedAt": "2026-09-28T01:42:28.100Z",
       "priceFetchFailed": false
     },
     {
@@ -284,15 +282,15 @@
         "Veckans Norska Italienare: Lax och spenatlasagne med dillcrème",
         "Veckans Slättdjur 155:- Rådjurswallenbergare med lingon ärtor och skirat smör samt potatispure"
       ],
-      "checkedAt": "2026-09-21T14:14:57.231Z",
-      "attemptedAt": "2026-09-21T14:14:57.231Z",
+      "checkedAt": "2026-09-28T01:42:28.100Z",
+      "attemptedAt": "2026-09-28T01:42:28.100Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false,
       "price": {
         "amount": 145,
         "note": "Vissa veckorätter 155 kr"
       },
-      "priceCheckedAt": "2026-09-21T14:14:57.231Z",
+      "priceCheckedAt": "2026-09-28T01:42:28.100Z",
       "priceFetchFailed": false
     }
   ]
