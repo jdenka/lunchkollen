@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-28T01:42:28.100Z",
+  "checkedAt": "2026-09-28T08:44:28.143Z",
   "menus": [
     {
       "id": "matverkstan",
@@ -28,15 +28,15 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-09-28T01:42:28.100Z",
-      "attemptedAt": "2026-09-28T01:42:28.100Z",
+      "checkedAt": "2026-09-28T08:44:28.143Z",
+      "attemptedAt": "2026-09-28T08:44:28.143Z",
       "weekStart": "2026-09-28",
       "fetchFailed": false,
       "price": {
         "amount": 115,
         "note": "Pensionär 105 kr"
       },
-      "priceCheckedAt": "2026-09-28T01:42:28.100Z",
+      "priceCheckedAt": "2026-09-28T08:44:28.143Z",
       "priceFetchFailed": false
     },
     {
@@ -65,14 +65,14 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-09-28T01:42:28.100Z",
-      "attemptedAt": "2026-09-28T01:42:28.100Z",
+      "checkedAt": "2026-09-28T08:44:28.143Z",
+      "attemptedAt": "2026-09-28T08:44:28.143Z",
       "weekStart": "2026-09-28",
       "fetchFailed": false,
       "price": {
         "amount": 120
       },
-      "priceCheckedAt": "2026-09-28T01:42:28.100Z",
+      "priceCheckedAt": "2026-09-28T08:44:28.143Z",
       "priceFetchFailed": false
     },
     {
@@ -111,104 +111,104 @@
         "Fish & Chips 159:-",
         "Kockens lövbiff med pommes och persiljesmör 189:-"
       ],
-      "checkedAt": "2026-09-28T01:42:28.100Z",
-      "attemptedAt": "2026-09-28T01:42:28.100Z",
+      "checkedAt": "2026-09-28T08:44:28.143Z",
+      "attemptedAt": "2026-09-28T08:44:28.143Z",
       "weekStart": "2026-09-28",
       "fetchFailed": false,
       "price": {
         "amount": 125,
         "note": "Avhämtning 110 kr · senior 115 kr"
       },
-      "priceCheckedAt": "2026-09-28T01:42:28.100Z",
+      "priceCheckedAt": "2026-09-28T08:44:28.143Z",
       "priceFetchFailed": false
     },
     {
       "id": "ganymeden",
-      "week": 39,
+      "week": 40,
       "days": [
         [
-          "Stekt panerad spätta med tartarsås",
-          "Kålpudding med gräddsås och lingon"
+          "Stekt panerad spätta med skagenröra",
+          "Stekt falukorv med stuvade makaroner",
+          "Dagens extra: Chili con carne med ris"
         ],
         [
           "Raggmunk eller bruna bönor med fläsk",
           "Stekt fläsk med löksås",
-          "Chili con carne med ris"
+          "Korvstroganoff med ris"
         ],
         [
-          "Stekt falukorv med stekt ägg och stekt potatis",
-          "Pepprig fläskköttsgryta med ris",
-          "Stekt panerad flundra med kall örtsås"
+          "Lasagne",
+          "Stekt panerad strömming med skirat smör och potatismos"
         ],
         [
-          "Pannbiff med lök, skysås och lingon",
+          "Pannbiff med gräddsås och lingon",
           "Ärtsoppa med pannkakor, sylt och grädde",
-          "Fiskgratäng med dill och räkor"
+          "Pytt i panna med stekt ägg och rödbetor"
         ],
         [
-          "Helstekt kotlettrad med choronsås och rostad potatis",
-          "Grillad kycklingfilé med grönpepparsås och rostad potatis"
+          "Helstekt fläskfilé med bearnaisesås eller skysås med rostad potatis",
+          "Fiskgryta med tomat, fänkål, rotfrukter och aioli"
         ]
       ],
       "weekly": [
-        "Veckans pasta: Krämig pasta med fläskfilé, champinjoner och purjolök",
-        "Veckans vegetariska: Vegetarisk chili med ris"
+        "Veckans pasta: Krämig pasta med salami, svartpeppar och purjolök",
+        "Veckans vegetariska: Vegetarisk med spenat och fetaost"
       ],
-      "checkedAt": "2026-09-21T14:14:57.231Z",
-      "attemptedAt": "2026-09-28T01:42:28.100Z",
-      "weekStart": "2026-09-21",
-      "fetchFailed": true,
+      "checkedAt": "2026-09-28T08:44:28.143Z",
+      "attemptedAt": "2026-09-28T08:44:28.143Z",
+      "weekStart": "2026-09-28",
+      "fetchFailed": false,
       "price": {
         "amount": 120,
         "note": "Avhämtning från 105 kr"
       },
-      "priceCheckedAt": "2026-09-21T14:14:57.231Z",
-      "priceFetchFailed": true
+      "priceCheckedAt": "2026-09-28T08:44:28.143Z",
+      "priceFetchFailed": false
     },
     {
       "id": "kockduon",
-      "week": 39,
+      "week": 40,
       "days": [
         [
-          "Isterband med gräddstuvad potatis",
-          "Fiskgratäng med skaldjurssås"
+          "Kycklingköttbullar med gräddsås",
+          "Torskfilé tempurainbakad med romsås"
         ],
         [
           "Raggmunk med stekt fläsk & lingonsylt",
           "Stekt fläsk med löksås",
-          "Chili con Carne med nacho chips"
+          "Kycklinggratäng med sweet chili och västerbottenost"
         ],
         [
-          "Höst högrevsgryta med rotfrukt",
-          "Stekt rödspätta med dansk remouladsås"
+          "Grillad fläskksrré med vitlökssås & rostad potatis",
+          "Dill-citronpanerad fiskfilé med kall dill sås"
         ],
         [
-          "Baconlindad köttfärslimpa med pepparsås",
+          "Grekiska köttfärsbiffar med klyft potatis",
           "Ärtsoppa & pannkaka med sylt & grädde"
         ],
         [
-          "Schnitzel med bearnaisesås & rödvinssås",
-          "Friterad kycklingfilé med sötsurt sås",
+          "Fyld schnitzel med ost och skinka & bearnaise sås",
+          "Ugnsgratinerad fiskfilé med vitt vin och purjölök",
           "Fredagar bjuder vi på dessert"
         ]
       ],
       "weekly": [
-        "Veckans pasta: Krämig pasta med kalkon mozzarella & broccoli",
+        "Veckans pasta: Krämig pasta med kalv, tryffel och kronärskocka",
         "Veckans sallader: Grekisk sallad 120:-",
         "Ost & skinksallad 120:-",
         "Kycklingsallad 120:-",
         "Tonfisksallad 120:-",
         "Husets Ceasar sallad 120:-"
       ],
-      "checkedAt": "2026-09-28T01:42:28.100Z",
-      "attemptedAt": "2026-09-28T01:42:28.100Z",
-      "weekStart": "2026-09-21",
+      "checkedAt": "2026-09-28T08:44:28.143Z",
+      "attemptedAt": "2026-09-28T08:44:28.143Z",
+      "weekStart": "2026-09-28",
       "fetchFailed": false,
       "price": {
         "amount": 110,
         "note": "Avhämtning 100 kr"
       },
-      "priceCheckedAt": "2026-09-28T01:42:28.100Z",
+      "priceCheckedAt": "2026-09-28T08:44:28.143Z",
       "priceFetchFailed": false
     },
     {
@@ -239,15 +239,15 @@
       "weekly": [
         "Veckans Vegetariska: Halloumistroganoff med ris, tomat och smetana"
       ],
-      "checkedAt": "2026-09-28T01:42:28.100Z",
-      "attemptedAt": "2026-09-28T01:42:28.100Z",
+      "checkedAt": "2026-09-28T08:44:28.143Z",
+      "attemptedAt": "2026-09-28T08:44:28.143Z",
       "weekStart": "2026-09-28",
       "fetchFailed": false,
       "price": {
         "amount": 130,
         "note": "LHC-medlemmar −25 %"
       },
-      "priceCheckedAt": "2026-09-28T01:42:28.100Z",
+      "priceCheckedAt": "2026-09-28T08:44:28.143Z",
       "priceFetchFailed": false
     },
     {
@@ -282,15 +282,15 @@
         "Veckans Norska Italienare: Lax och spenatlasagne med dillcrème",
         "Veckans Slättdjur 155:- Rådjurswallenbergare med lingon ärtor och skirat smör samt potatispure"
       ],
-      "checkedAt": "2026-09-28T01:42:28.100Z",
-      "attemptedAt": "2026-09-28T01:42:28.100Z",
+      "checkedAt": "2026-09-28T08:44:28.143Z",
+      "attemptedAt": "2026-09-28T08:44:28.143Z",
       "weekStart": "2026-09-21",
       "fetchFailed": false,
       "price": {
         "amount": 145,
         "note": "Vissa veckorätter 155 kr"
       },
-      "priceCheckedAt": "2026-09-28T01:42:28.100Z",
+      "priceCheckedAt": "2026-09-28T08:44:28.143Z",
       "priceFetchFailed": false
     }
   ]
