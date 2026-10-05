@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-05T09:09:34.855Z",
+  "checkedAt": "2026-10-05T09:27:04.031Z",
   "menus": [
     {
       "id": "matverkstan",
@@ -28,15 +28,15 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-10-05T09:09:34.855Z",
-      "attemptedAt": "2026-10-05T09:09:34.855Z",
+      "checkedAt": "2026-10-05T09:27:04.031Z",
+      "attemptedAt": "2026-10-05T09:27:04.031Z",
       "weekStart": "2026-10-05",
       "fetchFailed": false,
       "price": {
         "amount": 115,
         "note": "Pensionär 105 kr"
       },
-      "priceCheckedAt": "2026-10-05T09:09:34.855Z",
+      "priceCheckedAt": "2026-10-05T09:27:04.031Z",
       "priceFetchFailed": false
     },
     {
@@ -65,15 +65,15 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-10-05T02:02:49.029Z",
-      "attemptedAt": "2026-10-05T09:09:34.855Z",
+      "checkedAt": "2026-10-05T09:27:04.031Z",
+      "attemptedAt": "2026-10-05T09:27:04.031Z",
       "weekStart": "2026-10-05",
-      "fetchFailed": true,
+      "fetchFailed": false,
       "price": {
         "amount": 120
       },
-      "priceCheckedAt": "2026-10-05T02:02:49.029Z",
-      "priceFetchFailed": true
+      "priceCheckedAt": "2026-10-05T09:27:04.031Z",
+      "priceFetchFailed": false
     },
     {
       "id": "rejmes",
@@ -111,15 +111,15 @@
         "Fish & Chips 159:-",
         "Kockens lövbiff med pommes och persiljesmör 189:-"
       ],
-      "checkedAt": "2026-10-05T09:09:34.855Z",
-      "attemptedAt": "2026-10-05T09:09:34.855Z",
+      "checkedAt": "2026-10-05T09:27:04.031Z",
+      "attemptedAt": "2026-10-05T09:27:04.031Z",
       "weekStart": "2026-10-05",
       "fetchFailed": false,
       "price": {
         "amount": 125,
         "note": "Avhämtning 110 kr · senior 115 kr"
       },
-      "priceCheckedAt": "2026-10-05T09:09:34.855Z",
+      "priceCheckedAt": "2026-10-05T09:27:04.031Z",
       "priceFetchFailed": false
     },
     {
@@ -153,15 +153,15 @@
         "Veckans pasta: Pasta med skinksås",
         "Veckans vegetariska: Kikärtsbiffar med tomatsås och rostade rotfrukter"
       ],
-      "checkedAt": "2026-10-05T09:09:34.855Z",
-      "attemptedAt": "2026-10-05T09:09:34.855Z",
+      "checkedAt": "2026-10-05T09:27:04.031Z",
+      "attemptedAt": "2026-10-05T09:27:04.031Z",
       "weekStart": "2026-10-05",
       "fetchFailed": false,
       "price": {
         "amount": 120,
         "note": "Avhämtning från 105 kr"
       },
-      "priceCheckedAt": "2026-10-05T09:09:34.855Z",
+      "priceCheckedAt": "2026-10-05T09:27:04.031Z",
       "priceFetchFailed": false
     },
     {
@@ -199,16 +199,16 @@
         "Tonfisksallad 120:-",
         "Husets Ceasar sallad 120:-"
       ],
-      "checkedAt": "2026-10-05T02:02:49.029Z",
-      "attemptedAt": "2026-10-05T09:09:34.855Z",
+      "checkedAt": "2026-10-05T09:27:04.031Z",
+      "attemptedAt": "2026-10-05T09:27:04.031Z",
       "weekStart": "2026-10-05",
-      "fetchFailed": true,
+      "fetchFailed": false,
       "price": {
         "amount": 110,
         "note": "Avhämtning 100 kr"
       },
-      "priceCheckedAt": "2026-10-05T02:02:49.029Z",
-      "priceFetchFailed": true
+      "priceCheckedAt": "2026-10-05T09:27:04.031Z",
+      "priceFetchFailed": false
     },
     {
       "id": "lhc",
@@ -238,15 +238,15 @@
       "weekly": [
         "Veckans Vegetariska: Svamprisotto, västerbottensost och persiljepesto"
       ],
-      "checkedAt": "2026-10-05T09:09:34.855Z",
-      "attemptedAt": "2026-10-05T09:09:34.855Z",
+      "checkedAt": "2026-10-05T09:27:04.031Z",
+      "attemptedAt": "2026-10-05T09:27:04.031Z",
       "weekStart": "2026-10-05",
       "fetchFailed": false,
       "price": {
         "amount": 130,
         "note": "LHC-medlemmar −25 %"
       },
-      "priceCheckedAt": "2026-10-05T09:09:34.855Z",
+      "priceCheckedAt": "2026-10-05T09:27:04.031Z",
       "priceFetchFailed": false
     },
     {
@@ -273,15 +273,15 @@
         "Veckans Vild Korv 155:- Hjort och vildsvinsisterband med potatispuré äpple och kapris samt betor",
         "Veckans Vattendjur: Fiskgratäng med citron dill och purjolök"
       ],
-      "checkedAt": "2026-10-05T09:09:34.855Z",
-      "attemptedAt": "2026-10-05T09:09:34.855Z",
+      "checkedAt": "2026-10-05T09:27:04.031Z",
+      "attemptedAt": "2026-10-05T09:27:04.031Z",
       "weekStart": "2026-10-05",
       "fetchFailed": false,
       "price": {
         "amount": 145,
         "note": "Vissa veckorätter 155 kr"
       },
-      "priceCheckedAt": "2026-10-05T09:09:34.855Z",
+      "priceCheckedAt": "2026-10-05T09:27:04.031Z",
       "priceFetchFailed": false
     }
   ]
