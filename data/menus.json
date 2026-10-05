@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-05T02:02:49.029Z",
+  "checkedAt": "2026-10-05T09:09:34.855Z",
   "menus": [
     {
       "id": "matverkstan",
@@ -28,15 +28,15 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-10-05T02:02:49.029Z",
-      "attemptedAt": "2026-10-05T02:02:49.029Z",
+      "checkedAt": "2026-10-05T09:09:34.855Z",
+      "attemptedAt": "2026-10-05T09:09:34.855Z",
       "weekStart": "2026-10-05",
       "fetchFailed": false,
       "price": {
         "amount": 115,
         "note": "Pensionär 105 kr"
       },
-      "priceCheckedAt": "2026-10-05T02:02:49.029Z",
+      "priceCheckedAt": "2026-10-05T09:09:34.855Z",
       "priceFetchFailed": false
     },
     {
@@ -66,14 +66,14 @@
       ],
       "weekly": [],
       "checkedAt": "2026-10-05T02:02:49.029Z",
-      "attemptedAt": "2026-10-05T02:02:49.029Z",
+      "attemptedAt": "2026-10-05T09:09:34.855Z",
       "weekStart": "2026-10-05",
-      "fetchFailed": false,
+      "fetchFailed": true,
       "price": {
         "amount": 120
       },
       "priceCheckedAt": "2026-10-05T02:02:49.029Z",
-      "priceFetchFailed": false
+      "priceFetchFailed": true
     },
     {
       "id": "rejmes",
@@ -111,15 +111,15 @@
         "Fish & Chips 159:-",
         "Kockens lövbiff med pommes och persiljesmör 189:-"
       ],
-      "checkedAt": "2026-10-05T02:02:49.029Z",
-      "attemptedAt": "2026-10-05T02:02:49.029Z",
+      "checkedAt": "2026-10-05T09:09:34.855Z",
+      "attemptedAt": "2026-10-05T09:09:34.855Z",
       "weekStart": "2026-10-05",
       "fetchFailed": false,
       "price": {
         "amount": 125,
         "note": "Avhämtning 110 kr · senior 115 kr"
       },
-      "priceCheckedAt": "2026-10-05T02:02:49.029Z",
+      "priceCheckedAt": "2026-10-05T09:09:34.855Z",
       "priceFetchFailed": false
     },
     {
@@ -153,15 +153,15 @@
         "Veckans pasta: Pasta med skinksås",
         "Veckans vegetariska: Kikärtsbiffar med tomatsås och rostade rotfrukter"
       ],
-      "checkedAt": "2026-10-05T02:02:49.029Z",
-      "attemptedAt": "2026-10-05T02:02:49.029Z",
+      "checkedAt": "2026-10-05T09:09:34.855Z",
+      "attemptedAt": "2026-10-05T09:09:34.855Z",
       "weekStart": "2026-10-05",
       "fetchFailed": false,
       "price": {
         "amount": 120,
         "note": "Avhämtning från 105 kr"
       },
-      "priceCheckedAt": "2026-10-05T02:02:49.029Z",
+      "priceCheckedAt": "2026-10-05T09:09:34.855Z",
       "priceFetchFailed": false
     },
     {
@@ -200,53 +200,53 @@
         "Husets Ceasar sallad 120:-"
       ],
       "checkedAt": "2026-10-05T02:02:49.029Z",
-      "attemptedAt": "2026-10-05T02:02:49.029Z",
+      "attemptedAt": "2026-10-05T09:09:34.855Z",
       "weekStart": "2026-10-05",
-      "fetchFailed": false,
+      "fetchFailed": true,
       "price": {
         "amount": 110,
         "note": "Avhämtning 100 kr"
       },
       "priceCheckedAt": "2026-10-05T02:02:49.029Z",
-      "priceFetchFailed": false
+      "priceFetchFailed": true
     },
     {
       "id": "lhc",
-      "week": 40,
+      "week": 41,
       "days": [
         [
-          "Baconlindad chorizo med paprikasås, rostad potatis, tomat och ruccola",
-          "Vitvinsbakad sej med ägg- och persiljesås samt kokt potatis"
+          "Teriyakikyckling med wokade nudlar(G), rostade sesamfrön och jordnötssås",
+          "Citronbakad kolja med dillkrossad potatis, skaldjurssås och bakad fänkål"
         ],
         [
-          "Raggmunk med stekt fläsk och lingon",
-          "Vitvinsbakad sej med ägg- och persiljesås samt kokt potatis"
+          "Helstekt fläskkotlett med rostad potatis, örtsås och morötter",
+          "Citronbakad kolja med dillkrossad potatis, skaldjurssås och bakad fänkål"
         ],
         [
-          "Köttbullar (G) med gräddsås, lingon, pressgurka och potatismos",
-          "Vitvinsbakad sej med ägg- och persiljesås samt kokt potatis"
+          "Nötfärsbiff med stekt grönkål, dragonsmör, rödvinssås och potatispuré",
+          "Citronbakad kolja med dillkrossad potatis, skaldjurssås och bakad fänkål"
         ],
         [
-          "Fläskkarrégryta med grädde, palsternacka, morot och potatispuré",
-          "Bouillabaisse med tomat- och saffranssås, räkor, fänkål samt aioli"
+          "Gulaschgryta med högrev, paprika, kummin, ris och smetana",
+          "Bakad sej brynt smör (L), pepparrot, sparris och räkor"
         ],
         [
-          "Fläskschnitzel (G) med rostad potatis, rödvinssky, bearnaise och gröna bönor",
-          "Bouillabaisse med tomat- och saffranssås, räkor, fänkål samt aioli"
+          "Majspanerat kycklinglår (G) med rostad sötpotatis, sötstark barbequesås och coleslaw",
+          "Bakad sej brynt smör (L), pepparrot, sparris och räkor"
         ]
       ],
       "weekly": [
-        "Veckans Vegetariska: Halloumistroganoff med ris, tomat och smetana"
+        "Veckans Vegetariska: Svamprisotto, västerbottensost och persiljepesto"
       ],
-      "checkedAt": "2026-10-05T02:02:49.029Z",
-      "attemptedAt": "2026-10-05T02:02:49.029Z",
-      "weekStart": "2026-09-28",
+      "checkedAt": "2026-10-05T09:09:34.855Z",
+      "attemptedAt": "2026-10-05T09:09:34.855Z",
+      "weekStart": "2026-10-05",
       "fetchFailed": false,
       "price": {
         "amount": 130,
         "note": "LHC-medlemmar −25 %"
       },
-      "priceCheckedAt": "2026-10-05T02:02:49.029Z",
+      "priceCheckedAt": "2026-10-05T09:09:34.855Z",
       "priceFetchFailed": false
     },
     {
@@ -273,15 +273,15 @@
         "Veckans Vild Korv 155:- Hjort och vildsvinsisterband med potatispuré äpple och kapris samt betor",
         "Veckans Vattendjur: Fiskgratäng med citron dill och purjolök"
       ],
-      "checkedAt": "2026-10-05T02:02:49.029Z",
-      "attemptedAt": "2026-10-05T02:02:49.029Z",
+      "checkedAt": "2026-10-05T09:09:34.855Z",
+      "attemptedAt": "2026-10-05T09:09:34.855Z",
       "weekStart": "2026-10-05",
       "fetchFailed": false,
       "price": {
         "amount": 145,
         "note": "Vissa veckorätter 155 kr"
       },
-      "priceCheckedAt": "2026-10-05T02:02:49.029Z",
+      "priceCheckedAt": "2026-10-05T09:09:34.855Z",
       "priceFetchFailed": false
     }
   ]
