@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-19T01:19:31.629Z",
+  "checkedAt": "2026-10-19T07:51:04.228Z",
   "menus": [
     {
       "id": "matverkstan",
@@ -28,15 +28,15 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-10-19T01:19:31.629Z",
-      "attemptedAt": "2026-10-19T01:19:31.629Z",
+      "checkedAt": "2026-10-19T07:51:04.228Z",
+      "attemptedAt": "2026-10-19T07:51:04.228Z",
       "weekStart": "2026-10-19",
       "fetchFailed": false,
       "price": {
         "amount": 115,
         "note": "Pensionär 105 kr"
       },
-      "priceCheckedAt": "2026-10-19T01:19:31.629Z",
+      "priceCheckedAt": "2026-10-19T07:51:04.228Z",
       "priceFetchFailed": false
     },
     {
@@ -65,14 +65,14 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-10-19T01:19:31.629Z",
-      "attemptedAt": "2026-10-19T01:19:31.629Z",
+      "checkedAt": "2026-10-19T07:51:04.228Z",
+      "attemptedAt": "2026-10-19T07:51:04.228Z",
       "weekStart": "2026-10-19",
       "fetchFailed": false,
       "price": {
         "amount": 120
       },
-      "priceCheckedAt": "2026-10-19T01:19:31.629Z",
+      "priceCheckedAt": "2026-10-19T07:51:04.228Z",
       "priceFetchFailed": false
     },
     {
@@ -111,15 +111,15 @@
         "Fish & Chips 159:-",
         "Kockens lövbiff med pommes och persiljesmör 189:-"
       ],
-      "checkedAt": "2026-10-19T01:19:31.629Z",
-      "attemptedAt": "2026-10-19T01:19:31.629Z",
+      "checkedAt": "2026-10-19T07:51:04.228Z",
+      "attemptedAt": "2026-10-19T07:51:04.228Z",
       "weekStart": "2026-10-19",
       "fetchFailed": false,
       "price": {
         "amount": 125,
         "note": "Avhämtning 110 kr · senior 115 kr"
       },
-      "priceCheckedAt": "2026-10-19T01:19:31.629Z",
+      "priceCheckedAt": "2026-10-19T07:51:04.228Z",
       "priceFetchFailed": false
     },
     {
@@ -153,15 +153,15 @@
         "Veckans pasta: Pasta carbonara",
         "Veckans vegetariska: Halloumi stroganoff med ris"
       ],
-      "checkedAt": "2026-10-19T01:19:31.629Z",
-      "attemptedAt": "2026-10-19T01:19:31.629Z",
+      "checkedAt": "2026-10-19T07:51:04.228Z",
+      "attemptedAt": "2026-10-19T07:51:04.228Z",
       "weekStart": "2026-10-19",
       "fetchFailed": false,
       "price": {
         "amount": 120,
         "note": "Avhämtning från 105 kr"
       },
-      "priceCheckedAt": "2026-10-19T01:19:31.629Z",
+      "priceCheckedAt": "2026-10-19T07:51:04.228Z",
       "priceFetchFailed": false
     },
     {
@@ -199,15 +199,15 @@
         "Tonfisksallad 120:-",
         "Husets Ceasar sallad 120:-"
       ],
-      "checkedAt": "2026-10-19T01:19:31.629Z",
-      "attemptedAt": "2026-10-19T01:19:31.629Z",
+      "checkedAt": "2026-10-19T07:51:04.228Z",
+      "attemptedAt": "2026-10-19T07:51:04.228Z",
       "weekStart": "2026-10-19",
       "fetchFailed": false,
       "price": {
         "amount": 110,
         "note": "Avhämtning 100 kr"
       },
-      "priceCheckedAt": "2026-10-19T01:19:31.629Z",
+      "priceCheckedAt": "2026-10-19T07:51:04.228Z",
       "priceFetchFailed": false
     },
     {
@@ -238,15 +238,15 @@
       "weekly": [
         "Veckans Vegetariska: Vegetarisk lasagne (G) med tomatsallad & parmesan"
       ],
-      "checkedAt": "2026-10-19T01:19:31.629Z",
-      "attemptedAt": "2026-10-19T01:19:31.629Z",
+      "checkedAt": "2026-10-19T07:51:04.228Z",
+      "attemptedAt": "2026-10-19T07:51:04.228Z",
       "weekStart": "2026-10-19",
       "fetchFailed": false,
       "price": {
         "amount": 130,
         "note": "LHC-medlemmar −25 %"
       },
-      "priceCheckedAt": "2026-10-19T01:19:31.629Z",
+      "priceCheckedAt": "2026-10-19T07:51:04.228Z",
       "priceFetchFailed": false
     },
     {
@@ -273,15 +273,15 @@
         "Veckans Burgare 155:- Laxburgare med dillsyrad spetskål och currymajonnäs samt friterad potatis",
         "Veckans Kackel: Ört och pankopanerat kycklinglår Puttanesca"
       ],
-      "checkedAt": "2026-10-19T01:19:31.629Z",
-      "attemptedAt": "2026-10-19T01:19:31.629Z",
+      "checkedAt": "2026-10-19T07:51:04.228Z",
+      "attemptedAt": "2026-10-19T07:51:04.228Z",
       "weekStart": "2026-10-19",
       "fetchFailed": false,
       "price": {
         "amount": 145,
         "note": "Vissa veckorätter 155 kr"
       },
-      "priceCheckedAt": "2026-10-19T01:19:31.629Z",
+      "priceCheckedAt": "2026-10-19T07:51:04.228Z",
       "priceFetchFailed": false
     }
   ]
