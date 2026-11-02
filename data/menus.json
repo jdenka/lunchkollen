@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-02T10:14:51.253Z",
+  "checkedAt": "2026-11-02T16:07:55.057Z",
   "menus": [
     {
       "id": "matverkstan",
@@ -28,15 +28,15 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-11-02T10:14:51.253Z",
-      "attemptedAt": "2026-11-02T10:14:51.253Z",
+      "checkedAt": "2026-11-02T16:07:55.057Z",
+      "attemptedAt": "2026-11-02T16:07:55.057Z",
       "weekStart": "2026-11-02",
       "fetchFailed": false,
       "price": {
         "amount": 115,
         "note": "Pensionär 105 kr"
       },
-      "priceCheckedAt": "2026-11-02T10:14:51.253Z",
+      "priceCheckedAt": "2026-11-02T16:07:55.057Z",
       "priceFetchFailed": false
     },
     {
@@ -64,61 +64,56 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-11-02T10:14:51.253Z",
-      "attemptedAt": "2026-11-02T10:14:51.253Z",
+      "checkedAt": "2026-11-02T16:07:55.057Z",
+      "attemptedAt": "2026-11-02T16:07:55.057Z",
       "weekStart": "2026-11-02",
       "fetchFailed": false,
       "price": {
         "amount": 120
       },
-      "priceCheckedAt": "2026-11-02T10:14:51.253Z",
+      "priceCheckedAt": "2026-11-02T16:07:55.057Z",
       "priceFetchFailed": false
     },
     {
       "id": "rejmes",
-      "week": 45,
+      "week": 27,
       "days": [
         [
-          "Stekt panerad kapkummel med basilikadressing",
-          "Baconlindad kycklingfilé med pepperjacksås och klyftpotatis",
-          "Vegetariskt: Ugnsbakad halloumi med rotfrukter och honung"
+          "Stekt panerad torskfilé med dillmajonnäs",
+          "Vegetariskt: Vårrullar med sötsur sås och ris"
         ],
         [
-          "Lasagne al forno med färsk riven parmesan",
-          "Stekt panerad kapkummel med basilikadressing",
-          "Vegetariskt: Ugnsbakad halloumi med rotfrukter och honung"
+          "Stekt fläsk med löksås",
+          "Vegetariskt: Vårrullar med sötsur sås och ris"
         ],
         [
-          "Kökets kycklingköttbullar med gräddsås och lingon",
-          "Thailändsk fiskgryta",
-          "Vegetariskt: Ugnsbakad halloumi med rotfrukter och honung"
+          "Husets pannbiff med champinjonsås",
+          "Vegetariskt: Vårrullar med sötsur sås och ris"
         ],
         [
-          "Mexikansk nötfärssoppa samt äggvåffla med sylt och grädde",
-          "Fläsknoisette Bourguignon",
-          "Vegetariskt: Ugnsbakad halloumi med rotfrukter och honung"
+          "Indisk kycklingragu med basmatiris",
+          "Vegetariskt: Vårrullar med sötsur sås och ris"
         ],
         [
-          "Husets femöring på pannbiff",
-          "Vegetariskt: Ugnsbakad halloumi med rotfrukter och honung"
+          "Fläskfilé med dragonsås",
+          "Vegetariskt: Vårrullar med sötsur sås och ris"
         ]
       ],
       "weekly": [
         "Hela veckan: Bakad potatis med skagen alt. kyckling- och curryröra",
-        "Kräftstjärtsallad",
-        "Tagliatelle med strimlad biff och kantareller 129:-",
-        "Fish & Chips 159:-",
-        "Kockens lövbiff med pommes och persiljesmör 189:-"
+        "Räksallad",
+        "Fish and Chips 149 kr",
+        "Husets lövbiff med pommes 179 kr"
       ],
-      "checkedAt": "2026-11-02T10:14:51.253Z",
-      "attemptedAt": "2026-11-02T10:14:51.253Z",
-      "weekStart": "2026-11-02",
+      "checkedAt": "2026-11-02T16:07:55.057Z",
+      "attemptedAt": "2026-11-02T16:07:55.057Z",
+      "weekStart": "2026-06-29",
       "fetchFailed": false,
       "price": {
         "amount": 125,
         "note": "Avhämtning 110 kr · senior 115 kr"
       },
-      "priceCheckedAt": "2026-11-02T10:14:51.253Z",
+      "priceCheckedAt": "2026-11-02T16:07:55.057Z",
       "priceFetchFailed": false
     },
     {
@@ -153,15 +148,15 @@
         "Veckans pasta: Pasta med skinksås",
         "Veckans vegetariska: Vegetarisk chili med ris"
       ],
-      "checkedAt": "2026-11-02T10:14:51.253Z",
-      "attemptedAt": "2026-11-02T10:14:51.253Z",
+      "checkedAt": "2026-11-02T16:07:55.057Z",
+      "attemptedAt": "2026-11-02T16:07:55.057Z",
       "weekStart": "2026-11-02",
       "fetchFailed": false,
       "price": {
         "amount": 120,
         "note": "Avhämtning från 105 kr"
       },
-      "priceCheckedAt": "2026-11-02T10:14:51.253Z",
+      "priceCheckedAt": "2026-11-02T16:07:55.057Z",
       "priceFetchFailed": false
     },
     {
@@ -199,15 +194,15 @@
         "Tonfisksallad 120:-",
         "Husets Ceasar sallad 120:-"
       ],
-      "checkedAt": "2026-11-02T10:14:51.253Z",
-      "attemptedAt": "2026-11-02T10:14:51.253Z",
+      "checkedAt": "2026-11-02T16:07:55.057Z",
+      "attemptedAt": "2026-11-02T16:07:55.057Z",
       "weekStart": "2026-11-02",
       "fetchFailed": false,
       "price": {
         "amount": 110,
         "note": "Avhämtning 100 kr"
       },
-      "priceCheckedAt": "2026-11-02T10:14:51.253Z",
+      "priceCheckedAt": "2026-11-02T16:07:55.057Z",
       "priceFetchFailed": false
     },
     {
@@ -238,15 +233,15 @@
       "weekly": [
         "Veckans Vegetariska: Bakad blomkål med bulgursallad (G), bakade körsbärstomater, halloumi & aioli"
       ],
-      "checkedAt": "2026-11-02T10:14:51.253Z",
-      "attemptedAt": "2026-11-02T10:14:51.253Z",
+      "checkedAt": "2026-11-02T16:07:55.057Z",
+      "attemptedAt": "2026-11-02T16:07:55.057Z",
       "weekStart": "2026-11-02",
       "fetchFailed": false,
       "price": {
         "amount": 130,
         "note": "LHC-medlemmar −25 %"
       },
-      "priceCheckedAt": "2026-11-02T10:14:51.253Z",
+      "priceCheckedAt": "2026-11-02T16:07:55.057Z",
       "priceFetchFailed": false
     },
     {
@@ -274,14 +269,14 @@
         "Veckans Pasta: Carbonnara eller Salsicciasås med friterade blad samt riven ost"
       ],
       "checkedAt": "2026-10-26T11:11:01.591Z",
-      "attemptedAt": "2026-11-02T10:14:51.253Z",
+      "attemptedAt": "2026-11-02T16:07:55.057Z",
       "weekStart": "2026-10-26",
       "fetchFailed": true,
       "price": {
         "amount": 145,
         "note": "Vissa veckorätter 155 kr"
       },
-      "priceCheckedAt": "2026-11-02T10:14:51.253Z",
+      "priceCheckedAt": "2026-11-02T16:07:55.057Z",
       "priceFetchFailed": false
     }
   ]
