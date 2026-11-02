@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-02T06:13:40.852Z",
+  "checkedAt": "2026-11-02T10:14:51.253Z",
   "menus": [
     {
       "id": "matverkstan",
@@ -28,15 +28,15 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-11-02T06:13:40.852Z",
-      "attemptedAt": "2026-11-02T06:13:40.852Z",
+      "checkedAt": "2026-11-02T10:14:51.253Z",
+      "attemptedAt": "2026-11-02T10:14:51.253Z",
       "weekStart": "2026-11-02",
       "fetchFailed": false,
       "price": {
         "amount": 115,
         "note": "Pensionär 105 kr"
       },
-      "priceCheckedAt": "2026-11-02T06:13:40.852Z",
+      "priceCheckedAt": "2026-11-02T10:14:51.253Z",
       "priceFetchFailed": false
     },
     {
@@ -64,14 +64,14 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-11-02T06:13:40.852Z",
-      "attemptedAt": "2026-11-02T06:13:40.852Z",
+      "checkedAt": "2026-11-02T10:14:51.253Z",
+      "attemptedAt": "2026-11-02T10:14:51.253Z",
       "weekStart": "2026-11-02",
       "fetchFailed": false,
       "price": {
         "amount": 120
       },
-      "priceCheckedAt": "2026-11-02T06:13:40.852Z",
+      "priceCheckedAt": "2026-11-02T10:14:51.253Z",
       "priceFetchFailed": false
     },
     {
@@ -110,15 +110,15 @@
         "Fish & Chips 159:-",
         "Kockens lövbiff med pommes och persiljesmör 189:-"
       ],
-      "checkedAt": "2026-11-02T06:13:40.852Z",
-      "attemptedAt": "2026-11-02T06:13:40.852Z",
+      "checkedAt": "2026-11-02T10:14:51.253Z",
+      "attemptedAt": "2026-11-02T10:14:51.253Z",
       "weekStart": "2026-11-02",
       "fetchFailed": false,
       "price": {
         "amount": 125,
         "note": "Avhämtning 110 kr · senior 115 kr"
       },
-      "priceCheckedAt": "2026-11-02T06:13:40.852Z",
+      "priceCheckedAt": "2026-11-02T10:14:51.253Z",
       "priceFetchFailed": false
     },
     {
@@ -153,15 +153,15 @@
         "Veckans pasta: Pasta med skinksås",
         "Veckans vegetariska: Vegetarisk chili med ris"
       ],
-      "checkedAt": "2026-11-02T06:13:40.852Z",
-      "attemptedAt": "2026-11-02T06:13:40.852Z",
+      "checkedAt": "2026-11-02T10:14:51.253Z",
+      "attemptedAt": "2026-11-02T10:14:51.253Z",
       "weekStart": "2026-11-02",
       "fetchFailed": false,
       "price": {
         "amount": 120,
         "note": "Avhämtning från 105 kr"
       },
-      "priceCheckedAt": "2026-11-02T06:13:40.852Z",
+      "priceCheckedAt": "2026-11-02T10:14:51.253Z",
       "priceFetchFailed": false
     },
     {
@@ -199,54 +199,54 @@
         "Tonfisksallad 120:-",
         "Husets Ceasar sallad 120:-"
       ],
-      "checkedAt": "2026-11-02T06:13:40.852Z",
-      "attemptedAt": "2026-11-02T06:13:40.852Z",
+      "checkedAt": "2026-11-02T10:14:51.253Z",
+      "attemptedAt": "2026-11-02T10:14:51.253Z",
       "weekStart": "2026-11-02",
       "fetchFailed": false,
       "price": {
         "amount": 110,
         "note": "Avhämtning 100 kr"
       },
-      "priceCheckedAt": "2026-11-02T06:13:40.852Z",
+      "priceCheckedAt": "2026-11-02T10:14:51.253Z",
       "priceFetchFailed": false
     },
     {
       "id": "lhc",
-      "week": 44,
+      "week": 45,
       "days": [
         [
-          "Kycklinggryta med jasminris, röd curry & kokosmjölk",
-          "Bakad sej med pepparrot, brynt smör, rostade betor & potatis"
+          "Stekt kabanoss med surkål, potatismos & rostad lök (G)",
+          "Fänkålsbakad kummel med krossad potatis, skaldjurssås, picklad fänkål & morot"
         ],
         [
           "Raggmunk med stekt fläsk & lingon",
-          "Bakad sej med pepparrot, brynt smör, rostade betor & potatis"
+          "Fänkålsbakad kummel med krossad potatis, skaldjurssås, picklad fänkål & morot"
         ],
         [
-          "Köttfärslimpa med fetaost, örtbakad potatis samt tomat- & paprikaragu",
-          "Panerad flundra (G) med stuvad spenat, potatis, citron & haricots vertes"
+          "Majspanerat kycklinglår (G) med rostad potatis, jalapeñomajo & paprika",
+          "Bakad sej med brynt smör, sparris, ägg & pepparrot"
         ],
         [
-          "Helstekt fläskkarré med rosmarinsrostad potatis, BBQ sås, bakad paprika & broccoli",
-          "Ärtsoppa med fläsk | Pannkakor (G), sylt & grädde"
+          "Örtstekt kycklingbröst rostad morot & palsternacka, äpplecidergräddsås samt potatispuré",
+          "Thaisoppa med stekt kyckling & grönsaker|Pannkakor (G) med sylt & grädde"
         ],
         [
-          "Fläskschnitzel (G) med rostad potatis, chilibearnaise och stekt spetskål",
-          "Panerad flundra (G) med stuvad spenat, potatis, citron & haricots vertes"
+          "Fläskschnitzel (G) med rostad potatis, bearnaise & hari cot vertes",
+          "Bakad sej med brynt smör, sparris, ägg & pepparrot"
         ]
       ],
       "weekly": [
-        "Veckans Vegetariska: Paprikabiff med rostad potatis, fetaost samt tomat- & paprikaragu"
+        "Veckans Vegetariska: Bakad blomkål med bulgursallad (G), bakade körsbärstomater, halloumi & aioli"
       ],
-      "checkedAt": "2026-11-02T06:13:40.852Z",
-      "attemptedAt": "2026-11-02T06:13:40.852Z",
-      "weekStart": "2026-10-26",
+      "checkedAt": "2026-11-02T10:14:51.253Z",
+      "attemptedAt": "2026-11-02T10:14:51.253Z",
+      "weekStart": "2026-11-02",
       "fetchFailed": false,
       "price": {
         "amount": 130,
         "note": "LHC-medlemmar −25 %"
       },
-      "priceCheckedAt": "2026-11-02T06:13:40.852Z",
+      "priceCheckedAt": "2026-11-02T10:14:51.253Z",
       "priceFetchFailed": false
     },
     {
@@ -274,14 +274,14 @@
         "Veckans Pasta: Carbonnara eller Salsicciasås med friterade blad samt riven ost"
       ],
       "checkedAt": "2026-10-26T11:11:01.591Z",
-      "attemptedAt": "2026-11-02T06:13:40.852Z",
+      "attemptedAt": "2026-11-02T10:14:51.253Z",
       "weekStart": "2026-10-26",
       "fetchFailed": true,
       "price": {
         "amount": 145,
         "note": "Vissa veckorätter 155 kr"
       },
-      "priceCheckedAt": "2026-11-02T06:13:40.852Z",
+      "priceCheckedAt": "2026-11-02T10:14:51.253Z",
       "priceFetchFailed": false
     }
   ]
