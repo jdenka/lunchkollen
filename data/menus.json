@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-09T06:41:40.795Z",
+  "checkedAt": "2026-11-09T17:34:47.749Z",
   "menus": [
     {
       "id": "matverkstan",
@@ -28,15 +28,15 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-11-09T06:41:40.795Z",
-      "attemptedAt": "2026-11-09T06:41:40.795Z",
+      "checkedAt": "2026-11-09T17:34:47.749Z",
+      "attemptedAt": "2026-11-09T17:34:47.749Z",
       "weekStart": "2026-11-09",
       "fetchFailed": false,
       "price": {
         "amount": 115,
         "note": "Pensionär 105 kr"
       },
-      "priceCheckedAt": "2026-11-09T06:41:40.795Z",
+      "priceCheckedAt": "2026-11-09T17:34:47.749Z",
       "priceFetchFailed": false
     },
     {
@@ -65,14 +65,14 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-11-09T06:41:40.795Z",
-      "attemptedAt": "2026-11-09T06:41:40.795Z",
+      "checkedAt": "2026-11-09T17:34:47.749Z",
+      "attemptedAt": "2026-11-09T17:34:47.749Z",
       "weekStart": "2026-11-09",
       "fetchFailed": false,
       "price": {
         "amount": 120
       },
-      "priceCheckedAt": "2026-11-09T06:41:40.795Z",
+      "priceCheckedAt": "2026-11-09T17:34:47.749Z",
       "priceFetchFailed": false
     },
     {
@@ -111,15 +111,15 @@
         "Fish and Chips 159 kr",
         "Kockens lövbiff med pommes och persiljesmör 189 kr"
       ],
-      "checkedAt": "2026-11-09T06:41:40.795Z",
-      "attemptedAt": "2026-11-09T06:41:40.795Z",
+      "checkedAt": "2026-11-09T17:34:47.749Z",
+      "attemptedAt": "2026-11-09T17:34:47.749Z",
       "weekStart": "2027-01-25",
       "fetchFailed": false,
       "price": {
         "amount": 125,
         "note": "Avhämtning 110 kr · senior 115 kr"
       },
-      "priceCheckedAt": "2026-11-09T06:41:40.795Z",
+      "priceCheckedAt": "2026-11-09T17:34:47.749Z",
       "priceFetchFailed": false
     },
     {
@@ -153,15 +153,15 @@
         "Veckans pasta: Krämig pasta med salami, svartpeppar och purjolök",
         "Veckans vegetariska: Vegetarisk lasagne med fetaost"
       ],
-      "checkedAt": "2026-11-09T06:41:40.795Z",
-      "attemptedAt": "2026-11-09T06:41:40.795Z",
+      "checkedAt": "2026-11-09T17:34:47.749Z",
+      "attemptedAt": "2026-11-09T17:34:47.749Z",
       "weekStart": "2026-11-09",
       "fetchFailed": false,
       "price": {
         "amount": 120,
         "note": "Avhämtning från 105 kr"
       },
-      "priceCheckedAt": "2026-11-09T06:41:40.795Z",
+      "priceCheckedAt": "2026-11-09T17:34:47.749Z",
       "priceFetchFailed": false
     },
     {
@@ -199,54 +199,54 @@
         "Tonfisksallad 120:-",
         "Husets Ceasar sallad 120:-"
       ],
-      "checkedAt": "2026-11-09T06:41:40.795Z",
-      "attemptedAt": "2026-11-09T06:41:40.795Z",
+      "checkedAt": "2026-11-09T17:34:47.749Z",
+      "attemptedAt": "2026-11-09T17:34:47.749Z",
       "weekStart": "2026-11-09",
       "fetchFailed": false,
       "price": {
         "amount": 110,
         "note": "Avhämtning 100 kr"
       },
-      "priceCheckedAt": "2026-11-09T06:41:40.795Z",
+      "priceCheckedAt": "2026-11-09T17:34:47.749Z",
       "priceFetchFailed": false
     },
     {
       "id": "lhc",
-      "week": 45,
+      "week": 46,
       "days": [
         [
-          "Stekt kabanoss med surkål, potatismos & rostad lök (G)",
-          "Fänkålsbakad kummel med krossad potatis, skaldjurssås, picklad fänkål & morot"
+          "Krämig pasta rigatoni med bacon, grädde & parmesan",
+          "Laxlasagne (G) med saffran, fänkål & aioli"
         ],
         [
-          "Raggmunk med stekt fläsk & lingon",
-          "Fänkålsbakad kummel med krossad potatis, skaldjurssås, picklad fänkål & morot"
+          "Raggmunk med stekt fläsk & lingonsylt",
+          "Laxlasagne (G) med saffran, fänkål & aioli"
         ],
         [
-          "Majspanerat kycklinglår (G) med rostad potatis, jalapeñomajo & paprika",
-          "Bakad sej med brynt smör, sparris, ägg & pepparrot"
+          "Dansk sjömansbiff med buljongkokt potatis, lingon & saltgurka",
+          "Krämig fisk- och skaldjursgryta med vitt vin, grädde & citron"
         ],
         [
-          "Örtstekt kycklingbröst rostad morot & palsternacka, äpplecidergräddsås samt potatispuré",
-          "Thaisoppa med stekt kyckling & grönsaker|Pannkakor (G) med sylt & grädde"
+          "Helstekt fläskfilé med potatisgratäng, rödvinssås & bearnaisesås",
+          "Morotssoppa med varmrökt sidfläsk | Pannkakor (G)| Sylt | Grädde"
         ],
         [
-          "Fläskschnitzel (G) med rostad potatis, bearnaise & hari cot vertes",
-          "Bakad sej med brynt smör, sparris, ägg & pepparrot"
+          "Fläskschnitzel (G) med stekt potatis, gröna ärtor, rödvinssås & bearnaisesås",
+          "Krämig fisk- och skaldjursgryta med vitt vin, grädde & citron"
         ]
       ],
       "weekly": [
-        "Veckans Vegetariska: Bakad blomkål med bulgursallad (G), bakade körsbärstomater, halloumi & aioli"
+        "Veckans Vegetariska: Moussaka med aubergine, zucchini & potatis"
       ],
-      "checkedAt": "2026-11-09T06:41:40.795Z",
-      "attemptedAt": "2026-11-09T06:41:40.795Z",
-      "weekStart": "2026-11-02",
+      "checkedAt": "2026-11-09T17:34:47.749Z",
+      "attemptedAt": "2026-11-09T17:34:47.749Z",
+      "weekStart": "2026-11-09",
       "fetchFailed": false,
       "price": {
         "amount": 130,
         "note": "LHC-medlemmar −25 %"
       },
-      "priceCheckedAt": "2026-11-09T06:41:40.795Z",
+      "priceCheckedAt": "2026-11-09T17:34:47.749Z",
       "priceFetchFailed": false
     },
     {
@@ -273,15 +273,15 @@
         "Veckans Friterade: Panerad Lubb med curryremoulade och friterad potatis 155:-",
         "Veckans Klassiker: Kroppkakor med rimmat sidfläsk och rårörda lingon"
       ],
-      "checkedAt": "2026-11-09T06:41:40.795Z",
-      "attemptedAt": "2026-11-09T06:41:40.795Z",
+      "checkedAt": "2026-11-09T17:34:47.749Z",
+      "attemptedAt": "2026-11-09T17:34:47.749Z",
       "weekStart": "2026-11-09",
       "fetchFailed": false,
       "price": {
         "amount": 145,
         "note": "Vissa veckorätter 155 kr"
       },
-      "priceCheckedAt": "2026-11-09T06:41:40.795Z",
+      "priceCheckedAt": "2026-11-09T17:34:47.749Z",
       "priceFetchFailed": false
     }
   ]
