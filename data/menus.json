@@ -1,208 +1,213 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-02T16:07:55.057Z",
+  "checkedAt": "2026-11-09T06:41:40.795Z",
   "menus": [
     {
       "id": "matverkstan",
-      "week": 45,
+      "week": 46,
       "days": [
         [
-          "Lins & bönchili serveras med ris samt creme fraiche - GF",
-          "Viltskavsgryta serveras med potatismos & rårörda lingon - GF & LF (ursprungsområde Sverige)"
+          "Vegetarisk kålpudding serveras med kokt potatis, gräddsås & rårörda lingon - LF",
+          "Klassisk kåldolma serveras med kokt potatis gräddsås & rårörda lingon - GF & LF (ursprungsområde Polen)"
         ],
         [
-          "Feta- och tomatpaj serveras med krämig örtmajonnäs",
-          "Helstekt fläskfilé serveras med krämig potatisgratäng , smörstekta haricot verts & rödvinssås - GF & LF (ursprungsområde Chile)"
+          "Falafelbiff serveras med bulgur & tomatsås - LF",
+          "Kycklingköttbullar serveras bulgur & tomatsås - LF (ursprungsområde Sverige)"
         ],
         [
-          "Mustig tomat & kikärtsgryta med örter, vitlök och en mild heta serveras med ris - GF & LF",
-          "Thailändsk fiskgryta med kokosmjölk, citrongräs, och limeblad serveras med ris - GF & LF (ursprungsområde Sverige)"
+          "Vegetarisk schnitzel serveras med quinoa & mango raja",
+          "Gräddig fläskgryta med svamp & timjan serveras med ris - GF & LF (ursprungsområde EU)"
         ],
         [
-          "Sojafärsfylld zucchini serveras med bulgur & tomatsås - LF",
-          "Örtmarinerad fläskkarré serveras med rostade rotfrukter och en grönpepparsås - GF & LF (ursprungsområde EU)"
+          "Rödbetsbiffar serveras med rostad rotfrukter och krämig aioli - GF & LF",
+          "Saffransbakad fisk serveras med rostad rotfrukter & aioli - GF & LF (ursprungsområde Nordatlanten)"
         ],
         [
-          "Halloumi-och grönsaksgryta serveras med ris - GF",
-          "Biffstroganoff på nötbog serveras med ris samt saltgurka - LF & GF (ursprungsområde Sverige)"
+          "Pulled oumph serveras nachos, ris, picklad rödlök & coleslaw - GF & LF",
+          "Pulled pork serveras med nachos, ris, picklad rödlök & coleslaw - GF & LF (ursprungsområde EU)"
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-11-02T16:07:55.057Z",
-      "attemptedAt": "2026-11-02T16:07:55.057Z",
-      "weekStart": "2026-11-02",
+      "checkedAt": "2026-11-09T06:41:40.795Z",
+      "attemptedAt": "2026-11-09T06:41:40.795Z",
+      "weekStart": "2026-11-09",
       "fetchFailed": false,
       "price": {
         "amount": 115,
         "note": "Pensionär 105 kr"
       },
-      "priceCheckedAt": "2026-11-02T16:07:55.057Z",
+      "priceCheckedAt": "2026-11-09T06:41:40.795Z",
       "priceFetchFailed": false
     },
     {
       "id": "mickes",
-      "week": 45,
+      "week": 46,
       "days": [
         [
-          "Kålpudding med lingon",
-          "Ugnsfalukorv med potatismos"
+          "Hemmagjorda köttbullar med gräddsås",
+          "Isterband med dillstuvad potatis"
         ],
         [
-          "Spagetti med köttfärssås",
-          "Rödspätta med remouladsås"
+          "Sprödbakad torsk med remouladsås",
+          "Stekt fläsk med löksås"
         ],
         [
           "Pannbiff med lök",
-          "Pepparotkött med potatis"
+          "Falukorv med senapssås"
         ],
         [
-          "Kycklingfilegryta med ris",
-          "Kryddjärpar med pressgurka"
+          "Ärtsoppa och pannkaka",
+          "Köttfärslimpa med pressgurka"
         ],
         [
-          "Helstekt fläskfilé med potatisgratäng o bearnaisesås"
+          "Kycklingfilé med gräddsås",
+          "Sweitzare med kantarellsås"
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-11-02T16:07:55.057Z",
-      "attemptedAt": "2026-11-02T16:07:55.057Z",
-      "weekStart": "2026-11-02",
+      "checkedAt": "2026-11-09T06:41:40.795Z",
+      "attemptedAt": "2026-11-09T06:41:40.795Z",
+      "weekStart": "2026-11-09",
       "fetchFailed": false,
       "price": {
         "amount": 120
       },
-      "priceCheckedAt": "2026-11-02T16:07:55.057Z",
+      "priceCheckedAt": "2026-11-09T06:41:40.795Z",
       "priceFetchFailed": false
     },
     {
       "id": "rejmes",
-      "week": 27,
+      "week": 4,
       "days": [
         [
-          "Stekt panerad torskfilé med dillmajonnäs",
-          "Vegetariskt: Vårrullar med sötsur sås och ris"
+          "Stekt panerad torsk med romdressing",
+          "Kockarnas äkta heta chiligryta",
+          "Vegetarisk pytt i panna med stekt ägg"
         ],
         [
+          "Currygryta med kyckling och basmatiris",
+          "Stekt panerad torsk med romdressing",
+          "Vegetarisk pytt i panna med stekt ägg"
+        ],
+        [
+          "Stekt panerad strömming med potatispuré och lingon",
+          "Kålpudding med gräddsås och lingon",
+          "Vegetarisk pytt i panna med stekt ägg"
+        ],
+        [
+          "Ärtsoppa samt nygräddade pannkakor med lättvispad grädde och sylt",
           "Stekt fläsk med löksås",
-          "Vegetariskt: Vårrullar med sötsur sås och ris"
+          "Vegetarisk pytt i panna med stekt ägg"
         ],
         [
-          "Husets pannbiff med champinjonsås",
-          "Vegetariskt: Vårrullar med sötsur sås och ris"
-        ],
-        [
-          "Indisk kycklingragu med basmatiris",
-          "Vegetariskt: Vårrullar med sötsur sås och ris"
-        ],
-        [
-          "Fläskfilé med dragonsås",
-          "Vegetariskt: Vårrullar med sötsur sås och ris"
+          "Husets schnitzel med skysås och ärtor",
+          "Vegetarisk pytt i panna med stekt ägg"
         ]
       ],
       "weekly": [
         "Hela veckan: Bakad potatis med skagen alt. kyckling- och curryröra",
-        "Räksallad",
-        "Fish and Chips 149 kr",
-        "Husets lövbiff med pommes 179 kr"
+        "Grekisk Bondsallad",
+        "Pasta med soltorkade tomater, basilika och kyckling 129:-",
+        "Fish and Chips 159 kr",
+        "Kockens lövbiff med pommes och persiljesmör 189 kr"
       ],
-      "checkedAt": "2026-11-02T16:07:55.057Z",
-      "attemptedAt": "2026-11-02T16:07:55.057Z",
-      "weekStart": "2026-06-29",
+      "checkedAt": "2026-11-09T06:41:40.795Z",
+      "attemptedAt": "2026-11-09T06:41:40.795Z",
+      "weekStart": "2027-01-25",
       "fetchFailed": false,
       "price": {
         "amount": 125,
         "note": "Avhämtning 110 kr · senior 115 kr"
       },
-      "priceCheckedAt": "2026-11-02T16:07:55.057Z",
+      "priceCheckedAt": "2026-11-09T06:41:40.795Z",
       "priceFetchFailed": false
     },
     {
       "id": "ganymeden",
-      "week": 45,
+      "week": 46,
       "days": [
         [
-          "Stekt panerad spätta med kall örtsås",
-          "Kålpudding med gräddsås och lingon"
+          "Stekt panerad spätta med skagenröra",
+          "Köttbullar med gräddsås och lingon"
         ],
         [
           "Raggmunk eller bruna bönor med fläsk",
           "Stekt fläsk med löksås",
-          "Chili con carne med ris"
+          "Pastagratäng med kyckling, chili och basilika"
         ],
         [
-          "Ugnsgratinerad falukorv med potatismos",
-          "Stekt panerad flundra med thousand islandsås",
-          "Fläskköttsgryta med champinjoner, purjolök och ris"
+          "Isterband med persiljestuvad potatis och rödbetor",
+          "Kycklingfilé med gräddsås och gelé"
         ],
         [
-          "Pannbiff med lök, skysås och lingon",
+          "Pannbiff med champinjonsås och lingon",
           "Ärtsoppa med pannkakor, sylt och grädde",
-          "Kycklingfilé i smakrik tomatsås och ris"
+          "Stekt falukorv med stuvad spenat och ägghalva"
         ],
         [
-          "Schnitzel med bearnaisesås, ärtor och stekt potatis",
-          "Fiskgratäng med dill och räkor"
+          "Fläsknoisette med grönpepparsås och råstekt potatis",
+          "Ugnsbakad sej med tomat och purjolök"
         ]
       ],
       "weekly": [
-        "Veckans pasta: Pasta med skinksås",
-        "Veckans vegetariska: Vegetarisk chili med ris"
+        "Veckans pasta: Krämig pasta med salami, svartpeppar och purjolök",
+        "Veckans vegetariska: Vegetarisk lasagne med fetaost"
       ],
-      "checkedAt": "2026-11-02T16:07:55.057Z",
-      "attemptedAt": "2026-11-02T16:07:55.057Z",
-      "weekStart": "2026-11-02",
+      "checkedAt": "2026-11-09T06:41:40.795Z",
+      "attemptedAt": "2026-11-09T06:41:40.795Z",
+      "weekStart": "2026-11-09",
       "fetchFailed": false,
       "price": {
         "amount": 120,
         "note": "Avhämtning från 105 kr"
       },
-      "priceCheckedAt": "2026-11-02T16:07:55.057Z",
+      "priceCheckedAt": "2026-11-09T06:41:40.795Z",
       "priceFetchFailed": false
     },
     {
       "id": "kockduon",
-      "week": 45,
+      "week": 46,
       "days": [
         [
-          "Stekt kycklingfilé med ugnsrostade rotfrukter",
-          "Panerad stillahavsflundra med smörslungad potatis"
+          "Apelsin glaserad skinkstek med gräddsås",
+          "Spenat-och ostfylld fiskfilé med kall fisksås"
         ],
         [
           "Raggmunk med stekt fläsk & lingonsylt",
           "Stekt fläsk med löksås",
-          "Pastagratäng med köttfärs och osttäcke"
+          "Kryddig korvgryta med tomatsås och chorizo"
         ],
         [
-          "Isterband med gräddstuvad potatis",
-          "Panerad fiskfilé med citronsås"
+          "Pannbiff med gräddsås ugnrostad potatis",
+          "Stekt strömming med persiljesmör"
         ],
         [
-          "Köttfärslimpa med gräddsås & svart vinbärsgelé",
+          "Grillad kycklingfilé med kantarellsås",
           "Ärtsoppa & pannkaka med sylt & grädde"
         ],
         [
-          "Fläskfilé Black & White",
-          "Wookad biff med grönsaker & nudlar",
+          "Schnitzel med bearnaise sås",
+          "Ugnsgratinerad fiskfilé med vitvinssås",
           "Fredagar bjuder vi på dessert"
         ]
       ],
       "weekly": [
-        "Veckans pasta: Pasta Alfredo med kyckling",
+        "Veckans pasta: Pasta med ost -och skinksås",
         "Veckans sallader: Grekisk sallad 120:-",
         "Ost & skinksallad 120:-",
         "Kycklingsallad 120:-",
         "Tonfisksallad 120:-",
         "Husets Ceasar sallad 120:-"
       ],
-      "checkedAt": "2026-11-02T16:07:55.057Z",
-      "attemptedAt": "2026-11-02T16:07:55.057Z",
-      "weekStart": "2026-11-02",
+      "checkedAt": "2026-11-09T06:41:40.795Z",
+      "attemptedAt": "2026-11-09T06:41:40.795Z",
+      "weekStart": "2026-11-09",
       "fetchFailed": false,
       "price": {
         "amount": 110,
         "note": "Avhämtning 100 kr"
       },
-      "priceCheckedAt": "2026-11-02T16:07:55.057Z",
+      "priceCheckedAt": "2026-11-09T06:41:40.795Z",
       "priceFetchFailed": false
     },
     {
@@ -233,50 +238,50 @@
       "weekly": [
         "Veckans Vegetariska: Bakad blomkål med bulgursallad (G), bakade körsbärstomater, halloumi & aioli"
       ],
-      "checkedAt": "2026-11-02T16:07:55.057Z",
-      "attemptedAt": "2026-11-02T16:07:55.057Z",
+      "checkedAt": "2026-11-09T06:41:40.795Z",
+      "attemptedAt": "2026-11-09T06:41:40.795Z",
       "weekStart": "2026-11-02",
       "fetchFailed": false,
       "price": {
         "amount": 130,
         "note": "LHC-medlemmar −25 %"
       },
-      "priceCheckedAt": "2026-11-02T16:07:55.057Z",
+      "priceCheckedAt": "2026-11-09T06:41:40.795Z",
       "priceFetchFailed": false
     },
     {
       "id": "matkultur",
-      "week": 44,
+      "week": 46,
       "days": [
         [
-          "Nattbakad karré med choronsås och kryddbakad potatis"
+          "Kyckling med dragonsås bacon och champinjoner samt potatispuré"
         ],
         [
-          "Medelhavsbiffar med gräddig tomatsås och saltkokt potatis"
+          "Nattbakad karré med ugnsbakade rotfrukter och äppelcidersky samt ruccolaaioli"
         ],
         [
-          "Burgundisk köttgryta med potatispuré"
+          "Bengans gräddbakade kålpudding med kokt potatis och lingon samt sirapssky"
         ],
         [
-          "Viltisterband med stompad potatis och gräddstekt spetskål samt äppelsky"
+          "Isterband med dillstuvad potatis och inlagda rödbetor och senap"
         ],
         [
-          "Burgare med rökig tomatsalsa och cheddarcrème samt friterade rotfrukter"
+          "Schnitzel med café de parissmör samt ugnstekt potatis och rödvinssky"
         ]
       ],
       "weekly": [
-        "Veckans Västkustgryta 155:- Fiskgryta med krämig hummersås fänkål och morötter samt aioli",
-        "Veckans Pasta: Carbonnara eller Salsicciasås med friterade blad samt riven ost"
+        "Veckans Friterade: Panerad Lubb med curryremoulade och friterad potatis 155:-",
+        "Veckans Klassiker: Kroppkakor med rimmat sidfläsk och rårörda lingon"
       ],
-      "checkedAt": "2026-10-26T11:11:01.591Z",
-      "attemptedAt": "2026-11-02T16:07:55.057Z",
-      "weekStart": "2026-10-26",
-      "fetchFailed": true,
+      "checkedAt": "2026-11-09T06:41:40.795Z",
+      "attemptedAt": "2026-11-09T06:41:40.795Z",
+      "weekStart": "2026-11-09",
+      "fetchFailed": false,
       "price": {
         "amount": 145,
         "note": "Vissa veckorätter 155 kr"
       },
-      "priceCheckedAt": "2026-11-02T16:07:55.057Z",
+      "priceCheckedAt": "2026-11-09T06:41:40.795Z",
       "priceFetchFailed": false
     }
   ]
