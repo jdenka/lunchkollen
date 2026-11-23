@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-23T07:45:23.622Z",
+  "checkedAt": "2026-11-23T20:16:53.503Z",
   "menus": [
     {
       "id": "matverkstan",
@@ -27,15 +27,15 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-11-23T07:45:23.622Z",
-      "attemptedAt": "2026-11-23T07:45:23.622Z",
+      "checkedAt": "2026-11-23T20:16:53.503Z",
+      "attemptedAt": "2026-11-23T20:16:53.503Z",
       "weekStart": "2026-11-23",
       "fetchFailed": false,
       "price": {
         "amount": 115,
         "note": "Pensionär 105 kr"
       },
-      "priceCheckedAt": "2026-11-23T07:45:23.622Z",
+      "priceCheckedAt": "2026-11-23T20:16:53.503Z",
       "priceFetchFailed": false
     },
     {
@@ -64,14 +64,14 @@
         ]
       ],
       "weekly": [],
-      "checkedAt": "2026-11-23T07:45:23.622Z",
-      "attemptedAt": "2026-11-23T07:45:23.622Z",
+      "checkedAt": "2026-11-23T20:16:53.503Z",
+      "attemptedAt": "2026-11-23T20:16:53.503Z",
       "weekStart": "2026-11-23",
       "fetchFailed": false,
       "price": {
         "amount": 120
       },
-      "priceCheckedAt": "2026-11-23T07:45:23.622Z",
+      "priceCheckedAt": "2026-11-23T20:16:53.503Z",
       "priceFetchFailed": false
     },
     {
@@ -111,15 +111,15 @@
         "Pelles Gyrotallrik 159 kr",
         "Kockens lövbiff med pommes och persiljesmör 189 kr"
       ],
-      "checkedAt": "2026-11-23T07:45:23.622Z",
-      "attemptedAt": "2026-11-23T07:45:23.622Z",
+      "checkedAt": "2026-11-23T20:16:53.503Z",
+      "attemptedAt": "2026-11-23T20:16:53.503Z",
       "weekStart": "2026-11-23",
       "fetchFailed": false,
       "price": {
         "amount": 125,
         "note": "Avhämtning 110 kr · senior 115 kr"
       },
-      "priceCheckedAt": "2026-11-23T07:45:23.622Z",
+      "priceCheckedAt": "2026-11-23T20:16:53.503Z",
       "priceFetchFailed": false
     },
     {
@@ -155,15 +155,15 @@
         "Veckans pasta: Spaghetti bolognese",
         "Veckans vegetariska: Spaghetti med vegfärssås"
       ],
-      "checkedAt": "2026-11-23T07:45:23.622Z",
-      "attemptedAt": "2026-11-23T07:45:23.622Z",
+      "checkedAt": "2026-11-23T20:16:53.503Z",
+      "attemptedAt": "2026-11-23T20:16:53.503Z",
       "weekStart": "2026-11-23",
       "fetchFailed": false,
       "price": {
         "amount": 120,
         "note": "Avhämtning från 105 kr"
       },
-      "priceCheckedAt": "2026-11-23T07:45:23.622Z",
+      "priceCheckedAt": "2026-11-23T20:16:53.503Z",
       "priceFetchFailed": false
     },
     {
@@ -201,54 +201,54 @@
         "Tonfisksallad 120:-",
         "Husets Ceasar sallad 120:-"
       ],
-      "checkedAt": "2026-11-23T07:45:23.622Z",
-      "attemptedAt": "2026-11-23T07:45:23.622Z",
+      "checkedAt": "2026-11-23T20:16:53.503Z",
+      "attemptedAt": "2026-11-23T20:16:53.503Z",
       "weekStart": "2026-11-23",
       "fetchFailed": false,
       "price": {
         "amount": 110,
         "note": "Avhämtning 100 kr"
       },
-      "priceCheckedAt": "2026-11-23T07:45:23.622Z",
+      "priceCheckedAt": "2026-11-23T20:16:53.503Z",
       "priceFetchFailed": false
     },
     {
       "id": "lhc",
-      "week": 47,
+      "week": 48,
       "days": [
         [
-          "Isterband (G) med persiljestuvad potatis, stekt äpple, lök & rödbetor",
-          "Panerad sej (G) med remouladsås, citron & örtpotatis"
+          "Teriyakiglaserad fläsksida med stekt ris, paprika, salladslök & srirachamajonnäs",
+          "Tempurastekt Alaska pollock (G) med chilimajonnäs, sojastekt savojkål & örtbakad potatis"
         ],
         [
-          "Raggmunk med stekt fläsk & lingon",
-          "Panerad sej (G) med remouladsås, citron & örtpotatis"
+          "Raggmunk med atekt fläsk & lingon",
+          "Tempurastekt Alaska pollock (G) med chilimajonnäs, sojastekt savojkål & örtbakad potatis"
         ],
         [
-          "Viltskavsgryta med bacon, champinjon, potatismos & lingon",
-          "Bakad lax med citronsås, morot, palsternacka & dillstompad potatis"
+          "Lasagne (G) med parmesan samt tomat- och fetaostsallad",
+          "Varmrökt lax med persiljestuvad potatis, bakad fänkål & spenat"
         ],
         [
-          "Viltfärsbiff med gräddkokt kål, rostade rotfrukter & timjansky",
-          "Ärtsoppa med fläsk med pannkakor (G), sylt, grädde"
+          "Helstekt kotlett med potatismos, pepparsås, rostade rotsaker",
+          "Gulashsoppa med pannkakor (G), sylt & grädde"
         ],
         [
-          "Fläskschnitzel (G) med rostad potatis, rödvinssås, bearnaise & gröna bönor",
-          "Bakad lax med citronsås, morot, palsternacka & dillstompad potatis"
+          "Fläskschnitzel (G) med rostade rotfrukter, rödvinssky, bearnaise & gröna bönor",
+          "Varmrökt lax med persiljestuvad potatis, bakad fänkål & spenat"
         ]
       ],
       "weekly": [
-        "Veckans Vegetariska: Vegetarisk yakiniku med oumph!, ostronskivling, rostade sesamfrö, jasminris & salladslök"
+        "Veckans Vegetariska: Gnocchi (G) med skogschampinjoner, grädde, parmesan, grönkål & bakad tomat"
       ],
-      "checkedAt": "2026-11-23T07:45:23.622Z",
-      "attemptedAt": "2026-11-23T07:45:23.622Z",
-      "weekStart": "2026-11-16",
+      "checkedAt": "2026-11-23T20:16:53.503Z",
+      "attemptedAt": "2026-11-23T20:16:53.503Z",
+      "weekStart": "2026-11-23",
       "fetchFailed": false,
       "price": {
         "amount": 130,
         "note": "LHC-medlemmar −25 %"
       },
-      "priceCheckedAt": "2026-11-23T07:45:23.622Z",
+      "priceCheckedAt": "2026-11-23T20:16:53.503Z",
       "priceFetchFailed": false
     },
     {
@@ -275,14 +275,14 @@
         "Veckans Bullar: Köttbullar med gräddsås lingon och gurka samt kokt potatis",
         "Veckans Fisk: Kokt fisk med ägg och persiljesås"
       ],
-      "checkedAt": "2026-11-23T07:45:23.622Z",
-      "attemptedAt": "2026-11-23T07:45:23.622Z",
+      "checkedAt": "2026-11-23T20:16:53.503Z",
+      "attemptedAt": "2026-11-23T20:16:53.503Z",
       "weekStart": "2026-11-23",
       "fetchFailed": false,
       "price": {
         "amount": 145
       },
-      "priceCheckedAt": "2026-11-23T07:45:23.622Z",
+      "priceCheckedAt": "2026-11-23T20:16:53.503Z",
       "priceFetchFailed": false
     }
   ]
